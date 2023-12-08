@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+    Women in Italian Cinema
       image:
         filename: welcome.jpg
       text: |

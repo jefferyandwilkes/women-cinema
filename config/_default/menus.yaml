@@ -8,12 +8,11 @@ main:
     url: about
     weight: 10
   - name: Partners
-    identifier: partners
+    url: partners
     weight: 20  
   - name: People
-    parent: partners 
     url: people
-    weight: 10  
+    weight: 30  
   - name: Events
     url: event
     weight: 40

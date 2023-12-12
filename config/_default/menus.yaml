@@ -7,9 +7,6 @@ main:
   - name: About
     url: about
     weight: 10
-     - name: About
-       url: about
-       weight: 80
   - name: Partners
     url: partners
     weight: 20  

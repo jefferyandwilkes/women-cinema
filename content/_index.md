@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Women in Italian
-        Cinema 
+        Women in Italian Film Production: Industrial Histories and Gendered Labour, 1945-85
       image:
         filename: about.jpg
       text: |
         <br>
         
-        Women in Italian Film Production: Industrial Histories and Gendered Labour, 1945-85
+        
   
   - block: collection
     content:

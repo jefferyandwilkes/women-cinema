@@ -10,9 +10,17 @@ main:
   - name: Partners
     url: partners
     weight: 20  
-  - name: People
-    url: people
+  - name: Our Team
+    identifier: team
     weight: 30  
+  - name: Advisory Board
+    parent: team
+    url: advisory
+    weight: 10  
+  - name: Researchers
+    parent: team
+    url: people
+    weight: 20     
   - name: Events
     url: event
     weight: 40

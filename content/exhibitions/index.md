@@ -8,10 +8,10 @@ sections:
   - block: hero
     content:
       title: |
-        About
+        Exhibitions
         
       image:
-        filename: partners.jpg
+        filename: exhibitions.jpeg
       text: |
         <br>
         

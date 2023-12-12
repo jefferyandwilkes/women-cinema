@@ -5,65 +5,40 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: hero
+    content:
+      title: |
+        About
+        
+      image:
+        filename: partners.jpg
+      text: |
+        <br>
+        
+        The Cineteca di Bologna is one of Europe’s leading film institutions. Founded in the 1960s as an arm of the municipality of Bologna’s cinema commission, the Cineteca today is comprised of cinemas, archives, a library, film laboratories, publishing activities, and an annual film festival (Il cinema Ritrovato). Since it moved to its present premises in 2000, it has become a miniature city of cinema, one of the most innovative and prestigious centres for the preservation, study and promotion of film heritage. Under its director, Gianluca Farinelli, the Cineteca has built an enviable international reputation while developing its local links. It was a partner on Stephen Gundle’s earlier research project on ‘Producers and Production Practices in the History of Italian Cinema, 1949-1976’.	
+
   - block: contact
     content:
-      title: Contact
+      title: Introduction
+      text: |-
+        This AHRC-funded project brings together a core group of researchers with established expertise in different aspects of the film industry to explore the role of women in the Italian film industry between 1945 and 1985. 
+
+        This project will challenge a longstanding assumption that the many achievements of Italian cinema in the decades after World War Two were entirely due to the creative genius of a handful of male directors and the business acumen of the big producers who supported them. This picture of one of the world’s largest film industries ignores the fundamental role played by women at every level. We will explore female contributions that often remained invisible and which have been granted minimal space in film history. The project will bring to the surface a series of personal trajectories, histories of trades and functions, family stories and institutional practices that will illuminate the workings of an industry of global significance. At the same time, it will engage with creative practitioners, industry officials and workers in Italy and the UK to support - through research and policy recommendations - efforts to address the prevailing culture of gender-discrimination in media industries. In this way, history will be used as a critical weapon to disrupt prevalent understandings of gendered labour and challenge the traditional focus on predominantly male figures of visible achievement. 
+
+       
+
+  - block: contact
+    content:
+      title: Research Method
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
-    
-      # Automatically link email and phone or display as text?
-      autolink: true
-    
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '1'
 
-  - block: markdown
+  - block: contact
     content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      title: Research Questions
+      text: |-
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
 ---
+
+
+

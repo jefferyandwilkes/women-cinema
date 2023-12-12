@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Partners
+        Partners 
         
       image:
         filename: partners.jpg

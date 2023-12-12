@@ -14,17 +14,17 @@ main:
   - name: Partners
     url: partners
     weight: 30  
-  - name: Our Team
+  - name: Team
     identifier: team
     weight: 20  
   - name: Advisory Board
     parent: team
     url: advisory
-    weight: 10  
+    weight: 20  
   - name: Researchers
     parent: team
     url: people
-    weight: 20     
+    weight: 10     
   - name: Outputs
     identifier: outputs
     weight: 40

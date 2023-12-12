@@ -1,11 +1,12 @@
 ---
 title: Contact
 date: 2022-10-24
+
 type: landing
 
 sections:
-   - block: hero
-     content:
+  - block: hero
+    content:
       title: |
         Women in Italian
         Cinema 

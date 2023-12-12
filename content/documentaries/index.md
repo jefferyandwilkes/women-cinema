@@ -8,10 +8,10 @@ sections:
   - block: hero
     content:
       title: |
-        About
+        Documentaries
         
       image:
-        filename: about.jpg
+        filename: documentaries.jpg
       text: |
         <br>
         

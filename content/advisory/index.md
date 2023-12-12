@@ -11,7 +11,7 @@ sections:
         About
         
       image:
-        filename: about.jpg
+        filename: advisory-board.jpg
       text: |
         <br>
         

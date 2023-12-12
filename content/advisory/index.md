@@ -21,7 +21,7 @@ sections:
     content:
       title: Melanie Bell
       text: |-
-        Melanie Bell, Professor in Film History, University of Leeds. In 2014 she won a major AHRC award to research the history of women in the British Film and Television Industries. This project combined statistical analysis with oral history interviewing to examine women's economic and creative contribution to cultural production in British film and television. Her publications include the book Movie Workers: The Women Who Made British Cinema (University of Illinois Press, 2021).  
+        <a href="/">Melanie Bell</a>, Professor in Film History, University of Leeds. In 2014 she won a major AHRC award to research the history of women in the British Film and Television Industries. This project combined statistical analysis with oral history interviewing to examine women's economic and creative contribution to cultural production in British film and television. Her publications include the book Movie Workers: The Women Who Made British Cinema (University of Illinois Press, 2021).  
 
   - block: contact
     content:

@@ -9,10 +9,10 @@ main:
     weight: 10
   - name: Partners
     url: partners
-    weight: 20  
+    weight: 30  
   - name: Our Team
     identifier: team
-    weight: 30  
+    weight: 20  
   - name: Advisory Board
     parent: team
     url: advisory
@@ -23,7 +23,7 @@ main:
     weight: 20     
   - name: Outputs
     identifier: outputs
-    weight: 50
+    weight: 40
   - name: Digital Archive
     parent: outputs
     url: digital
@@ -42,6 +42,6 @@ main:
     weight: 40    
   - name: Contact
     url: contact
-    weight: 60
+    weight: 50
 
     

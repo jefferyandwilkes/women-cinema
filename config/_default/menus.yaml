@@ -7,7 +7,7 @@ main:
   - name: About
     identifier: about
     weight: 10
-  - name: Introduction
+  - name: Intro
     parent: about
     url: introduction
     weight: 10  

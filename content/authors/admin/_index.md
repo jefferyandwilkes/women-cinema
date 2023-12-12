@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Silvia Dibeltulo
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Silvia
+last_name: Dibeltulo
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Co-Investigator
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Oxford Brookes University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -72,6 +72,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Silvia Dibeltulo is Senior Lecturer in Communication, Media and Culture at Oxford Brookes University. Previously, she worked on the AHRC-funded Italian Cinema Audiences project and the BA/Leverhulme-funded project Mapping European Cinema: A comparative project on Cinema-going Experiences in the 1950s. Much of her research focuses on audience and reception studies, film genre, issues of ethnicity and gender in relation to cinema, and digital humanities. Her publications include, among others, the article 'Family, Gang and Ethnicity in Italian-themed Hollywood Gangster Films' (Film International, 2014), the co-edited volume Rethinking Genre in Contemporary Global Cinema (Palgrave, 2018), the co-authored monograph Italian Cinema Audiences: Histories and Memories of Cinema-going in Post-war Italy (Bloomsbury, 2021) and articles ‘The place of film in cinema memory’ (Participations, 2023), and ‘Tackling precarity and disadvantage: an analysis of mentoring provision within the UK's creative industries’ (Creative Industries Journal, forthcoming 2023).

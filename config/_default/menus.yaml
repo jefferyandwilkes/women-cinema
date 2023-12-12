@@ -21,9 +21,6 @@ main:
     parent: team
     url: people
     weight: 20     
-  - name: Events
-    url: event
-    weight: 40
   - name: Outputs
     identifier: outputs
     weight: 50

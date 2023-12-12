@@ -7,6 +7,9 @@ main:
   - name: About
     url: about
     weight: 10
+  - name: Digital Archive
+    identifier: digital archive
+    weight: 20  
   - name: Partners
     url: partners
     weight: 20  

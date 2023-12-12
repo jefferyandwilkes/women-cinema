@@ -11,7 +11,7 @@ sections:
         About
         
       image:
-        filename: advisory-board.jpg
+        filename: digital-archive.jpg
       text: |
         <br>
         

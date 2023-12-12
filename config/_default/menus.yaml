@@ -7,15 +7,13 @@ main:
   - name: About
     url: about
     weight: 10
-  - name: Documentaries
-    identifier: documentaries
-    weight: 20  
   - name: Partners
-    url: partners
+    identifier: partners
     weight: 20  
   - name: People
+    parent: partners 
     url: people
-    weight: 30
+    weight: 10  
   - name: Events
     url: event
     weight: 40

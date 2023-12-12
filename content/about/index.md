@@ -5,9 +5,8 @@ date: 2022-10-24
 type: landing
 
 sections:
-
- - block: hero
-   content:
+  - block: hero
+    content:
       title: |
         Wowchemy
         Research 

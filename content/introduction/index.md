@@ -17,58 +17,9 @@ sections:
         
         This AHRC-funded project brings together a core group of researchers with established expertise in different aspects of the film industry to explore the role of women in the Italian film industry between 1945 and 1985.
 
-  - block: slider
-    content:
-      slides:
-      - title: :wave: Welcome to the group
-        content: Take a look at what we're working on...
-        align: center
-        background:
-          image:
-            filename: coders.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
-      - title: Lunch & Learn :coffee:️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
-        background:
-          image:
-            filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
-    design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: false
-      # Duration of transition between slides (in ms)
-      interval: 2000  
-
-        
-
   - block: contact
     content:
-      title: Introduction
+      title:
       text: |-
         This project will challenge a longstanding assumption that the many achievements of Italian cinema in the decades after World War Two were entirely due to the creative genius of a handful of male directors and the business acumen of the big producers who supported them. This picture of one of the world’s largest film industries ignores the fundamental role played by women at every level. We will explore female contributions that often remained invisible and which have been granted minimal space in film history. The project will bring to the surface a series of personal trajectories, histories of trades and functions, family stories and institutional practices that will illuminate the workings of an industry of global significance. At the same time, it will engage with creative practitioners, industry officials and workers in Italy and the UK to support - through research and policy recommendations - efforts to address the prevailing culture of gender-discrimination in media industries. In this way, history will be used as a critical weapon to disrupt prevalent understandings of gendered labour and challenge the traditional focus on predominantly male figures of visible achievement.
 

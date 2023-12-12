@@ -22,5 +22,8 @@ main:
   - name: Contact
     url: contact
     weight: 60
+  - name: Advisory Board
+    url: advisory
+    weight: 70  
 
     

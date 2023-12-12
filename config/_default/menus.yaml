@@ -16,9 +16,25 @@ main:
   - name: Events
     url: event
     weight: 40
-  - name: Output
-    url: publication
+  - name: Outputs
+    identifier: outputs
     weight: 50
+  - name: Digital Archive
+    parent: outputs
+    url: digital
+    weight: 10  
+  - name: Exhibitions
+    parent: outputs
+    url: exhibitions
+    weight: 20   
+  - name: Documentaties
+    parent: outputs
+    url: documentaries
+    weight: 30   
+  - name: Publications
+    parent: outputs
+    url: publications
+    weight: 40    
   - name: Contact
     url: contact
     weight: 60

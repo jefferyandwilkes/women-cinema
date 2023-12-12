@@ -5,8 +5,12 @@
 
 main:
   - name: About
-    url: about
+    identifier: about
     weight: 10
+  - name: Introduction
+    parent: about
+    url: introduction
+    weight: 10  
   - name: Partners
     url: partners
     weight: 30  

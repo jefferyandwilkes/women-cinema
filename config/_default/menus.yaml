@@ -7,7 +7,7 @@ main:
   - name: About
     url: about
     weight: 10
-  - name: Digital Archive
+  - name: Documentaries
     identifier: documentaries
     weight: 20  
   - name: Partners

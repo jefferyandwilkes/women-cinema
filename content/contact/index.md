@@ -14,11 +14,10 @@ sections:
         filename: contact-us.jpg
       text: |
         <br>
-        
-       Contact Us:
-       Professor Stephen Gundle: S.Gundle@warwick.ac.uk
-       Dr Silvia Dibeltulo: sdibeltulo@brookes.ac.uk
-       Professor Daniela Treveri Gennari: dtreveri-gennari@brookes.ac.uk
+        Contact Us:
+        Professor Stephen Gundle: S.Gundle@warwick.ac.uk
+        Dr Silvia Dibeltulo: sdibeltulo@brookes.ac.uk
+        Professor Daniela Treveri Gennari: dtreveri-gennari@brookes.ac.uk
 
 
   - block: contact

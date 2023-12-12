@@ -7,9 +7,9 @@ main:
   - name: About
     url: about
     weight: 10
-  - name: News
-    url: post
-    weight: 20
+  - name: Partners
+    url: partners
+    weight: 20  
   - name: People
     url: people
     weight: 30
@@ -22,7 +22,5 @@ main:
   - name: Contact
     url: contact
     weight: 60
-  - name: Partners
-    url: partners
-    weight: 70
+
     

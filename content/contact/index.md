@@ -11,11 +11,15 @@ sections:
         Women in Italian
         Cinema 
       image:
-        filename: about.jpg
+        filename: contact-us.jpg
       text: |
         <br>
         
-        Women in Italian Film Production: Industrial Histories and Gendered Labour, 1945-85
+       Contact Us:
+       Professor Stephen Gundle: S.Gundle@warwick.ac.uk
+       Dr Silvia Dibeltulo: sdibeltulo@brookes.ac.uk
+       Professor Daniela Treveri Gennari: dtreveri-gennari@brookes.ac.uk
+
 
   - block: contact
     content:

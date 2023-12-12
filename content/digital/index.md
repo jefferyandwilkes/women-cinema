@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        About
+        Digital Archive
         
       image:
         filename: digital-archive.jpg

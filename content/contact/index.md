@@ -6,7 +6,7 @@ type: landing
 
 sections:
    - block: hero
-    content:
+     content:
       title: |
         Women in Italian
         Cinema 

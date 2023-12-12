@@ -5,6 +5,18 @@ date: 2022-10-24
 type: landing
 
 sections:
+   - block: hero
+    content:
+      title: |
+        Women in Italian
+        Cinema 
+      image:
+        filename: about.jpg
+      text: |
+        <br>
+        
+        Women in Italian Film Production: Industrial Histories and Gendered Labour, 1945-85
+
   - block: contact
     content:
       title: Contact

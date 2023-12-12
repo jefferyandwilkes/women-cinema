@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Women in Italy Cinema
+        Women in Italian Cinema
       image:
         filename: welcome.jpg
       text: |

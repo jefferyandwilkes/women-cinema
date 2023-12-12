@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research 
+        Women in Italian
+        Cinema 
       image:
-        filename: welcome.jpg
+        filename: about.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Women in Italian Film Production: Industrial Histories and Gendered Labour, 1945-85
   
   - block: collection
     content:

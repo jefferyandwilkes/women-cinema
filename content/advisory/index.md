@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        Advisory Board
+        Our project is supported by an advisory board that includes academics and professionals from the film and creative industries. 
 
   - block: contact
     content:

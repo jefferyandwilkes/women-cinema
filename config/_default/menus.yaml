@@ -13,7 +13,7 @@ main:
     weight: 10  
   - name: Research Method
     parent: about
-    url: research
+    url: methods
     weight: 20    
   - name: Research Questions
     parent: about

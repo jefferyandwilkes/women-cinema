@@ -21,13 +21,13 @@ sections:
     content:
       title: Melanie Bell
       text: |-
-        <a href="/">Melanie Bell</a>, Professor in Film History, University of Leeds. In 2014 she won a major AHRC award to research the history of women in the British Film and Television Industries. This project combined statistical analysis with oral history interviewing to examine women's economic and creative contribution to cultural production in British film and television. Her publications include the book Movie Workers: The Women Who Made British Cinema (University of Illinois Press, 2021).  
+        <a href="https://ahc.leeds.ac.uk/media/staff/191/professor-melanie-bell" "target="_blank">Melanie Bell</a>, Professor in Film History, University of Leeds. In 2014 she won a major AHRC award to research the history of women in the British Film and Television Industries. This project combined statistical analysis with oral history interviewing to examine women's economic and creative contribution to cultural production in British film and television. Her publications include the book Movie Workers: The Women Who Made British Cinema (University of Illinois Press, 2021).  
 
   - block: contact
     content:
       title: Mariapia Comand
       text: |-
-        Mariapia Comand, Professor of Film Studies, University of Udine. A former editor of Bianco & Nero and associate editor of L’ Avventura, she is principal investigator of the research project ‘Modes, Memories and Cultures of Film Production in Italy, 1949-1976’ which concludes in 2024. Among her publications are L’immagine dialogica: il cinema tra intertestualità e dialogismo (2001); Il sorpasso (2002); Cinema Europeo (with Roy Menarini 2006); Commedia all'italiana (2010); I personaggi dei film (2013); Elsa De’ Giorgi: storia, discorsi e memorie del cinema (2022).
+        <a href="https://dium.uniud.it/it/dium/persone/docenti-e-ricercatori/mariapia-comand/" "target="_blank">Mariapia Comand</a>, Professor of Film Studies, University of Udine. A former editor of Bianco & Nero and associate editor of L’ Avventura, she is principal investigator of the research project ‘Modes, Memories and Cultures of Film Production in Italy, 1949-1976’ which concludes in 2024. Among her publications are L’immagine dialogica: il cinema tra intertestualità e dialogismo (2001); Il sorpasso (2002); Cinema Europeo (with Roy Menarini 2006); Commedia all'italiana (2010); I personaggi dei film (2013); Elsa De’ Giorgi: storia, discorsi e memorie del cinema (2022).
 
   - block: contact
     content:
@@ -37,33 +37,33 @@ sections:
 
   - block: contact
     content:
-      title: Caterina D’Amico
+      title: Eric Hoyt
       text: |-
-        Caterina D’Amico has in the course of her career been a film producer, archivist, teacher, programme maker for television, cultural organiser and exhibition curator. Between 2007 and 2010, she was the chief executive of RAI Cinema and in 2009 she was appointed Head of the Italian National Film School. Daughter of the screenwriter Suso Cecchi D’Amico and the musicologist Fedele D’Amico, she has been scientific director of the Visconti archive, held at the Gramsci Institute in Rome. She is at present director of the Franco Zeffirelli Foundation museum in Florence.
+         <a href="https://commarts.wisc.edu/staff/hoyt-eric/" "target="_blank">Eric Hoyt</a>, Professor of Film, Media and Cultural Studies, University of Wisconsin-Madison. His teaching and research concentrate on digital media production, the digital humanities, media industries, and the histories of American film and broadcasting. He is the Director of the Wisconsin Center for Film and Theater Research and Media History Digital Library, which has digitized over 3 million pages of historic books and magazines for broad public access. He also served as the lead developer of Lantern, the MHDL’s search platform, and Arclight, a data analytics and visualization app for the MHDL’s collection.
 
   - block: contact
     content:
-      title: Caterina D’Amico
+      title: Kate O’Connor
       text: |-
-        Caterina D’Amico has in the course of her career been a film producer, archivist, teacher, programme maker for television, cultural organiser and exhibition curator. Between 2007 and 2010, she was the chief executive of RAI Cinema and in 2009 she was appointed Head of the Italian National Film School. Daughter of the screenwriter Suso Cecchi D’Amico and the musicologist Fedele D’Amico, she has been scientific director of the Visconti archive, held at the Gramsci Institute in Rome. She is at present director of the Franco Zeffirelli Foundation museum in Florence.
+         <a href="https://uk.linkedin.com/in/kate-o-connor-937059b0?original_referer=https%3A%2F%2Fwww.google.com%2F" "target="_blank">Kate O’Connor</a> (Creative Industries Federation). She is an experienced and senior consultant in creative industries, working with both private and public-sector clients in the UK and internationally. Since setting up her consultancy practice, Kate has specialised in providing expertise in areas of education and training policy and industry/education engagement at a strategic level. In addition to her consultancy, Kate was appointed as Executive Chair of Animation UK, formed in 2017, and in 2018/9 was appointed co-director and Chair of the Partnership Board of XR Stories and the Screen Industries Growth Network (SIGN). Kate is Chair of the BFI Research Committee, a Trustee of You Make It and Board Member of the London College of Contemporary Media & BAFTA member.
 
   - block: contact
     content:
-      title: Caterina D’Amico
+      title: Catherine O’Rawe
       text: |-
-        Caterina D’Amico has in the course of her career been a film producer, archivist, teacher, programme maker for television, cultural organiser and exhibition curator. Between 2007 and 2010, she was the chief executive of RAI Cinema and in 2009 she was appointed Head of the Italian National Film School. Daughter of the screenwriter Suso Cecchi D’Amico and the musicologist Fedele D’Amico, she has been scientific director of the Visconti archive, held at the Gramsci Institute in Rome. She is at present director of the Franco Zeffirelli Foundation museum in Florence.
+         <a href="https://www.bristol.ac.uk/people/person/Catherine-O'Rawe-c2d061cd-690e-4abc-ae04-7a01906e1d63/" "target="_blank">Catherine O’Rawe</a>, Professor of Italian Film and Culture, University of Bristol.  Her principal research interest lies in Italian cinema. She is the author of Stars and Masculinities in Contemporary Italian Cinema (Palgrave Macmillan, 2014), co-author (with Jacqueline Reich) of Divi: la mascolinita' nel cinema italiano (Donzelli, 2015), and of articles and chapters on contemporary and post-war Italian cinema. She is a Co-Investigator on the ERC project ‘Studiotec: Film Studios: Infrastructure, Culture, Innovation in Britain, France, Germany and Italy, 1930-60.’
 
   - block: contact
     content:
-      title: Caterina D’Amico
+      title: Shelley Stamp
       text: |-
-        Caterina D’Amico has in the course of her career been a film producer, archivist, teacher, programme maker for television, cultural organiser and exhibition curator. Between 2007 and 2010, she was the chief executive of RAI Cinema and in 2009 she was appointed Head of the Italian National Film School. Daughter of the screenwriter Suso Cecchi D’Amico and the musicologist Fedele D’Amico, she has been scientific director of the Visconti archive, held at the Gramsci Institute in Rome. She is at present director of the Franco Zeffirelli Foundation museum in Florence.
+         <a href="https://film.ucsc.edu/faculty/shelley_stamp" "target="_blank">Shelley Stamp</a>, Professor of Film and Digital Media, University of California at Santa Cruz. She is a film historian and curator, author of the award-winning books Lois Weber in Early Hollywood and Movie-Struck Girls: Women and Motion Picture Culture after the Nickelodeon, curator of the award-winning 6-disc set Pioneers:  First Women Filmmakers, and author of many articles on women’s filmmaking and moviegoing.  She is Founding Editor of the journal Feminist Media Histories, published quarterly by the University of California Press, and currently edit the Feminist Media Histories book series for UC Press.  
 
   - block: contact
     content:
-      title: Caterina D’Amico
+      title: Louise Wallenberg
       text: |-
-        Caterina D’Amico has in the course of her career been a film producer, archivist, teacher, programme maker for television, cultural organiser and exhibition curator. Between 2007 and 2010, she was the chief executive of RAI Cinema and in 2009 she was appointed Head of the Italian National Film School. Daughter of the screenwriter Suso Cecchi D’Amico and the musicologist Fedele D’Amico, she has been scientific director of the Visconti archive, held at the Gramsci Institute in Rome. She is at present director of the Franco Zeffirelli Foundation museum in Florence.
+         <a href="https://www.su.se/english/profiles/lowal-1.190510" "target="_blank">Louise Wallenberg</a>, Professor in Fashion Studies, Stockholm University, Sweden. She holds a PhD in Film Studies, and she was the establishing director of the Centre for Fashion Studies between 2007 and 2013. Among her publications are the collections MODE (2009); Nordic Fashion Studies (2011); Mode och modernism (2014); Fashion, Film, and the 1960s (2017); Fashion and Modernism (2018); What about all these women? (2022); and Ingmar Bergman at the Crossroads (2022).
                     
 ---
 

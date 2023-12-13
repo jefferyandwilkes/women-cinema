@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        Women in Italian Film Production: Industrial Histories and Gendered Labour, 1945-85
+        <h5>Two documentaries of approximately 45 minutes will be made with the support and input of the project team in collaboration with the Cineteca di Bologna. They will be informed by the perspectives and findings of the research. Following public presentation, they will be integrated with the digital archive to create a lasting resource. The first film will focus on Mara Blasetti and international film-making in the 1960s-1970s. The second film will look at Cecilia Mangini and the documentary genre in women’s work. A third research-led film output will re-mix extracts from project video-interviews in five thematic shorts to be edited by members of the Mujeres nel Cinema collective in order to create a dynamic creative synergy between past and present experiences. All three films will be showcased at film festivals and cultural institutions. </h5>
 
   - block: contact
     content:

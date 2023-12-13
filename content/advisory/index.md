@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        About
+        Advisory Board
         
       image:
         filename: advisory-board.jpg

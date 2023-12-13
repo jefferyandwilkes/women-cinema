@@ -55,6 +55,13 @@ jobs:
         uses: actions/upload-pages-artifact@v2
         with:
           path: ./public
+      - name: Save copy with Hugo
+        env:
+          HUGO_ENVIRONMENT: production
+        run: |
+          echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
+          hugo --minify
+      - uses: stefanzweifel/git-auto-commit-action@v5
 
   # Deploy website to GitHub Pages hosting
   deploy:

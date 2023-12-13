@@ -23,12 +23,6 @@ sections:
       text: |-
         Our research method consists of the following phases
 
-   - block: contact
-    content:
-      title:
-      text: |-
-        Our research method consists of the following phases
-
 
        
 

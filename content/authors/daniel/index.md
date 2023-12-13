@@ -3,8 +3,8 @@
 title: Daniel 吳恩達
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Daniela
+last_name: Trevari
 
 # Username (this should match the folder name)
 authors:

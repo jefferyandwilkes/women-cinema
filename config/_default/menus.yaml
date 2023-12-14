@@ -44,7 +44,7 @@ main:
     parent: outputs
     url: exhibitions
     weight: 20   
-  - name: Documentaties
+  - name: Documentaries
     parent: outputs
     url: documentaries
     weight: 30   

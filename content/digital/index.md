@@ -1,5 +1,5 @@
 ---
-title: Partners
+title: Digital
 date: 2022-10-24
 
 type: landing
@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Partners 
+        Digital Archive
         
       image:
         filename: digital-archive.jpg

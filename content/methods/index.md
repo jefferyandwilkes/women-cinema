@@ -17,6 +17,8 @@ sections:
         
         The project will blend conventional historical methods of archival research and research on the press, whose value has been underlined by the new film history and new cinema history, with techniques developed within production studies and family history. It will adopt oral history to capture experiences that have remained largely or completely undocumented.
 
+         Our research method consists of 4 phases.    
+
   - block: contact
     content:
       title: Our research method consists of 4 phases.

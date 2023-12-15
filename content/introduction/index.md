@@ -28,7 +28,7 @@ sections:
       title: 
       text: |-
         The first objective is one of identification. Research will extend knowledge of women working as screenwriters, assistant directors, 
-    editors, production managers, producers, legal officers and set and costume designers.     
+    
 
   - block: contact
     content:

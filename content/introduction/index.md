@@ -40,7 +40,11 @@ sections:
       text: |-    
         3.The third objective is to challenge the way the industry’s history has been written by valorising the personal papers of Mara Blasetti (one of the first female production managers), Cecilia Mangini (a pioneer director of documentaries who was always critical of the industry), and the screenwriter Suso Cecchi D’Amico and her daughters (both of whom later achieved prominence in state media institutions) – all of which will be catalogued and digitised in association with the Cineteca di Bologna. This will be complemented by oral histories of both past and present female film professionals.
  
-      
+  - block: contact
+    content:
+      title: 
+      text: |-    
+        4.  The fourth objective is to interpret the place of women in the industry adapting the insights of international research and those deriving from the methodologies adapted to the Italian case. In publications, documentary films, a photographic exhibition and other outputs, the team will elaborate on project archival work and interviews to highlight the varied nature of the obstacles women faced and the ways in which their labour was often configured as of a service nature and limited to supporting functions. It will shed light on the ways they used family, female sociability and soft skills to make careers for themselves even if proper acknowledgement and rewards were lacking. The project will interrogate the industry’s normative self-images, its understandings of creativity, its divisions of labour and will seek to understand whether there was greater flexibility in medium and small enterprises and in the less prestigious branches of the industry.   
 
 
 ---

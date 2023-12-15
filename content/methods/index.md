@@ -19,7 +19,7 @@ sections:
 
   - block: contact
     content:
-      title: Our research method consists of the following phases:
+      title: Our research method consists of the following 4 phases.
      
 
   - block: contact

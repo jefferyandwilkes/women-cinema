@@ -27,7 +27,7 @@ sections:
     content:
       title: 
       text: |-
-        The first objective is one of identification. Research will extend knowledge of women working as screenwriters, assistant directors, 
+        The 
     
 
   - block: contact

@@ -38,7 +38,7 @@ sections:
     content:
       title: 
       text: |-    
-        test      
+        3.The third objective is to challenge the way the industry’s history has been written by valorising the personal papers of Mara Blasetti (one of the first female production managers), Cecilia Mangini (a pioneer director of documentaries who was always critical of the industry), and the screenwriter Suso Cecchi D’Amico and her daughters (both of whom later achieved prominence in state media institutions) – all of which will be catalogued and digitised in association with the Cineteca di Bologna. This will be complemented by oral histories of both past and present female film professionals.
  
       
 

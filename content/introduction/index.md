@@ -31,6 +31,11 @@ sections:
 
         The first objective is one of identification. Research will extend knowledge of women working as screenwriters, assistant directors, editors, production managers, producers, legal officers and set and costume designers. 
 
+   - block: contact
+     content:
+      title:
+      text: |-
+        The project has four core objectives: 
         The second objective is to investigate the hierarchical and gendered divisions of labour that governed the film industry, leading to the preclusion of key roles to women and a downplaying of the creative aspects of the spheres in which they were active (set and costume design, editing, dubbing, continuity and secretarial roles). 
 
         The third objective is to challenge the way the industry’s history has been written by valorising the personal papers of Mara Blasetti (one of the first female production managers), Cecilia Mangini (a pioneer director of documentaries who was always critical of the industry), and the screenwriter Suso Cecchi D’Amico and her daughters (both of whom later achieved prominence in state media institutions) – all of which will be catalogued and digitised in association with the Cineteca di Bologna. This will be complemented by oral histories of both past and present female film professionals.

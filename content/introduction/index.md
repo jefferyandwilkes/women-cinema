@@ -21,25 +21,25 @@ sections:
     content:
       title: 
       text: |-
-       test
+        test
 
   - block: contact
     content:
       title: 
       text: |-
-       test     
+        test     
 
   - block: contact
     content:
       title: 
       text: |-    
-       test
+        test
       
   - block: contact
     content:
       title: 
       text: |-    
-       test      
+        test      
  
       
 

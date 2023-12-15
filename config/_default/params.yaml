@@ -33,15 +33,16 @@ marketing:
 
 header:
   navbar:
-    enable: false
+    enable: true
     align: r
     show_logo: true
+    logo:
+       filename: "logo.jpeg"
     show_language: false
     show_day_night: true
     show_search: true
     highlight_active_link: true
-    logo:
-       filename: logo.jpeg
+    
 # Site footer
 
 footer:

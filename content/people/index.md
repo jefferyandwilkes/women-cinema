@@ -12,8 +12,8 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Principal Investigators
-          - Researchers
-          - Test
+          - Co-Investigators
+          - Postdoctoral Researchers
           - Administration
           - Visitors
           - Alumni

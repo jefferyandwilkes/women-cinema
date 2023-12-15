@@ -29,15 +29,38 @@ sections:
     content:
       title:
       text: |-
-        The project has four core objectives: 
+        2. What does an investigation of non-mainstream production companies reveal about the
+        presence of women in the sector? 
 
-        The first objective is one of identification. Research will extend knowledge of women working as screenwriters, assistant directors, editors, production managers, producers, legal officers and set and costume designers. 
+        With this question we aim to capture another aspect of what Gaines (2018) refers to as stories of unfulfilled or side-tracked ambition. The Italian phenomenon of many small production companies meant that women could often be found at the head of small, often short-lived enterprises, many of which were located away from the main production centre of Rome and/or were engaged with low-prestige genres. Fragmentation provided career avenues in a context in which access to the upper reaches of production was obstructed. Business records held by the Central State Archive and ANICA will complement testimonies from women who headed companies that operated respectively in the spheres of art film and popular genre production.
 
-        The second objective is to investigate the hierarchical and gendered divisions of labour that governed the film industry, leading to the preclusion of key roles to women and a downplaying of the creative aspects of the spheres in which they were active (set and costume design, editing, dubbing, continuity and secretarial roles). 
+  - block: contact
+    content:
+      title:
+      text: |-
+        3. What role did family networks and personal relationships play in establishing, preserving
+        and sometimes modifying gendered divisions of labour? 
 
-        The third objective is to challenge the way the industry’s history has been written by valorising the personal papers of Mara Blasetti (one of the first female production managers), Cecilia Mangini (a pioneer director of documentaries who was always critical of the industry), and the screenwriter Suso Cecchi D’Amico and her daughters (both of whom later achieved prominence in state media institutions) – all of which will be catalogued and digitised in association with the Cineteca di Bologna. This will be complemented by oral histories of both past and present female film professionals.
+        This line of inquiry will investigate family specialisations over time and examine how these both facilitated the entry of women and impacted on their careers. Family often determined the avenues open to women but in some cases it functioned as an obstacle to entry or resulted in women being overshadowed or denied recognition. Archival sources and oral testimonies will offer insights into the complex ways in which family played into the nature and quality of female roles, for example, daughters following fathers into the industry, but then also acting to preserve the paternal legacy for posterity.
 
-        The fourth objective is to interpret the place of women in the industry adapting the insights of international research and those deriving from the methodologies adapted to the Italian case. In publications, documentary films, a photographic exhibition and other outputs, the team will elaborate on project archival work and interviews to highlight the varied nature of the obstacles women faced and the ways in which their labour was often configured as of a service nature and limited to supporting functions. It will shed light on the ways they used family, female sociability and soft skills to make careers for themselves even if proper acknowledgement and rewards were lacking. The project will interrogate the industry’s normative self-images, its understandings of creativity, its divisions of labour and will seek to understand whether there was greater flexibility in medium and small enterprises and in the less prestigious branches of the industry.
+  - block: contact
+    content:
+      title:
+      text: |-
+        4. What was the impact of international factors on women's work in the sector? 
+
+
+        We want to explore the impact of the extensive pattern of co-production that characterised Italian film production between the late 1940s and the 1970s. This ensured frequent contacts with the working practices of the French, American and British industries as well as the emergence of new roles and functions to manage multilingual and multi-national collaborations. Attention will be paid to how women benefitted (or otherwise) from these encounters and to the new roles that they acquired as a result of them. Preliminary research suggests that in production, screenwriting and production management women found new opportunities and that, through them, they developed ways of working different from the Italian standard.
+    
+  - block: contact
+    content:
+      title:
+      text: |-
+        5. What role has systematic gender-based discrimination and harassment in the film
+        industry played in the experiences of women, starting from access to the profession to the
+        availability of opportunities and career progression? 
+
+        In the context of #MeToo and its Italian equivalents, this question will pay attention to sexual harassment and misogynistic behaviour in the industry, phenomena that can be considered as hidden in plain sight. In contrast to other national film industries almost no historical work has been done on the homosocial culture of the Italian film world and its impact on the systematic exclusion of women from certain occupations. Oral testimonies on the topic will be analysed in relation to the wider patterns of power and privilege in the industry that the project will illuminate. 
 
 ---
 

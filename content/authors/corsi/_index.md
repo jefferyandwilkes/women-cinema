@@ -13,8 +13,8 @@ superuser: true
 role: Postdoctoral Researcher
 
 # Organizations/Affiliations
-organizations: Oxford Brookes University
-  - name: 
+organizations: 
+  - name: Oxford Brookes University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

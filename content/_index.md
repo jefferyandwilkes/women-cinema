@@ -9,7 +9,7 @@ sections:
     content:
       title: |
         <br>
-        <h4>Women in Italian Film Production: Industrial Histories and Gendered Labour, 1945-85</h4>
+        <h3>Women in Italian Film Production: Industrial Histories and Gendered Labour, 1945-85</h3>
       image:
         filename: about.jpg
       text: |

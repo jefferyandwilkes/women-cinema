@@ -47,11 +47,7 @@ main:
   - name: Documentaries
     parent: outputs
     url: documentaries
-    weight: 30   
-  - name: Publications
-    parent: outputs
-    url: publications
-    weight: 40    
+    weight: 30       
   - name: Contact
     url: contact
     weight: 50

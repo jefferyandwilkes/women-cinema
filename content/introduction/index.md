@@ -16,9 +16,30 @@ sections:
         <br>
         
         This AHRC-funded project brings together a core group of researchers with established expertise in different aspects of the film industry to explore the role of women in the Italian film industry between 1945 and 1985.
+  
+  - block: contact
+    content:
+      title: 
+      text: |-
+      test
 
- 
+  - block: contact
+    content:
+      title: 
+      text: |-
+      test     
 
+  - block: contact
+    content:
+      title: 
+      text: |-    
+      test
+      
+  - block: contact
+    content:
+      title: 
+      text: |-    
+      test      
  
       
 

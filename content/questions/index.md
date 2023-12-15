@@ -11,7 +11,7 @@ sections:
         Research Questions
         
       image:
-        filename: questions.jpg
+        filename: research-questions.jpg
       text: |
         <br>
         

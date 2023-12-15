@@ -12,7 +12,7 @@ on:
 
 # Provide permission to clone the repo and deploy it to GitHub Pages
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -31,6 +31,7 @@ jobs:
         with:
           # Fetch history for Hugo's .GitInfo and .Lastmod
           fetch-depth: 0
+          persist-credentials: true
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
@@ -55,6 +56,15 @@ jobs:
         uses: actions/upload-pages-artifact@v2
         with:
           path: ./public
+      - name: Save copy with Hugo
+        env:
+          HUGO_ENVIRONMENT: production
+        run: |
+          echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
+          hugo --minify
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Saved build output
 
   # Deploy website to GitHub Pages hosting
   deploy:

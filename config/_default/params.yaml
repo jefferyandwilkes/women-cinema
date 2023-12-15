@@ -37,6 +37,7 @@ header:
     align: r
     show_logo: true
     logo:
+       text: ""
        filename: "logo.jpeg"
     show_language: false
     show_day_night: true

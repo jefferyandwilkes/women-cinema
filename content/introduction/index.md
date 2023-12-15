@@ -33,8 +33,7 @@ sections:
     content:
       title: 
       text: |-    
-        test
-      
+        2. The second objective is to investigate the hierarchical and gendered divisions of labour that governed the film industry, leading to the preclusion of key roles to women and a downplaying of the creative aspects of the spheres in which they were active (set and costume design, editing, dubbing, continuity and secretarial roles).       
   - block: contact
     content:
       title: 

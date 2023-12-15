@@ -12,11 +12,11 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Test
+          - Principle Investigator
+          - Barry
+          - Administration
           - Co-Investigators
           - Postdoctoral Researchers
-          - Administration
-          - Visitors
-          - Alumni
       sort_by: Params.last_name
       sort_ascending: true
     design:

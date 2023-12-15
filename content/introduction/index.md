@@ -24,12 +24,7 @@ sections:
 
       test
 
-    - block: contact
-      content:
-      title: Introduction
-      text: |-
-
-      test 
+ 
       
 
 

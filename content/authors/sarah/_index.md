@@ -40,7 +40,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Postdoctoral Researchers
 ---
 
 Silvia Dibeltulo is Senior Lecturer in Communication, Media and Culture at Oxford Brookes University. Previously, she worked on the AHRC-funded Italian Cinema Audiences project and the BA/Leverhulme-funded project Mapping European Cinema: A comparative project on Cinema-going Experiences in the 1950s. Much of her research focuses on audience and reception studies, film genre, issues of ethnicity and gender in relation to cinema, and digital humanities. Her publications include, among others, the article 'Family, Gang and Ethnicity in Italian-themed Hollywood Gangster Films' (Film International, 2014), the co-edited volume Rethinking Genre in Contemporary Global Cinema (Palgrave, 2018), the co-authored monograph Italian Cinema Audiences: Histories and Memories of Cinema-going in Post-war Italy (Bloomsbury, 2021) and articles ‘The place of film in cinema memory’ (Participations, 2023), and ‘Tackling precarity and disadvantage: an analysis of mentoring provision within the UK's creative industries’ (Creative Industries Journal, forthcoming 2023).

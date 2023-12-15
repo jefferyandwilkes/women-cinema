@@ -13,7 +13,7 @@ sections:
       user_groups:
           - Principal Investigators
           - Researchers
-          - Grad Students
+          - Test
           - Administration
           - Visitors
           - Alumni
@@ -22,5 +22,5 @@ sections:
     design:
       show_interests: false
       show_role: true
-      show_social: true
+      show_social: false
 ---

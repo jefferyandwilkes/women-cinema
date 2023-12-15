@@ -15,7 +15,9 @@ sections:
       text: |
         <br>
         
-        Our research is guided by five questions
+        Our research is guided by five questions.
+
+       
 
   - block: contact
     content:

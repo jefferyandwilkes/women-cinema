@@ -41,7 +41,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Principle Investigators
-  - Grad Students
+  - Test
 ---
 
 Stephen Gundle is Professor of Film and Television Studies at the University of Warwick. Previously, he held academic posts in the Universities of London, Oxford and Cambridge. He is the author of several works of political and cultural history, including Between Hollywood and Moscow: The Italian Communists and the Challenge of Mass Culture, 1943-91, Bellissima: Feminine Beauty and the Idea of Italy, Glamour: A History and Mass Culture and Italian Society from Fascism to the Cold War (with David Forgacs), several of which were also published in Italian. He has written two books about film stardom: Mussolini’s Dream Factory: Film Stardom in Fascist Italy and Fame Amid the Ruins: Italian Film Stardom in the Age of Neorealism. Prior to this project, he was principal investigator of two other AHRC large research projects: The Cult of the Duce: Mussolini and the Italians and Producers and Production Practices in the History of Italian Cinema.   

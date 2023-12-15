@@ -11,7 +11,7 @@ sections:
         Introduction
         
       image:
-        filename: about.jpg
+        filename: introduction.jpeg
       text: |
         <br>
         
@@ -25,17 +25,18 @@ sections:
 
   - block: contact
     content:
-      title: Research Method
+      title:
       text: |-
-        The project will blend conventional historical methods of archival research and research on the press, whose value has been underlined by the new film history and new cinema history, with techniques developed within production studies and family history. It will adopt oral history to capture experiences that have remained largely or completely undocumented.
-Our research method consists of the following phases:
+        The project has four core objectives: 
 
+        The first objective is one of identification. Research will extend knowledge of women working as screenwriters, assistant directors, editors, production managers, producers, legal officers and set and costume designers. 
 
-  - block: contact
-    content:
-      title: Research Questions
-      text: |-
-        Our research is guided by the following questions:
+        The second objective is to investigate the hierarchical and gendered divisions of labour that governed the film industry, leading to the preclusion of key roles to women and a downplaying of the creative aspects of the spheres in which they were active (set and costume design, editing, dubbing, continuity and secretarial roles). 
+
+        The third objective is to challenge the way the industry’s history has been written by valorising the personal papers of Mara Blasetti (one of the first female production managers), Cecilia Mangini (a pioneer director of documentaries who was always critical of the industry), and the screenwriter Suso Cecchi D’Amico and her daughters (both of whom later achieved prominence in state media institutions) – all of which will be catalogued and digitised in association with the Cineteca di Bologna. This will be complemented by oral histories of both past and present female film professionals.
+
+        The fourth objective is to interpret the place of women in the industry adapting the insights of international research and those deriving from the methodologies adapted to the Italian case. In publications, documentary films, a photographic exhibition and other outputs, the team will elaborate on project archival work and interviews to highlight the varied nature of the obstacles women faced and the ways in which their labour was often configured as of a service nature and limited to supporting functions. It will shed light on the ways they used family, female sociability and soft skills to make careers for themselves even if proper acknowledgement and rewards were lacking. The project will interrogate the industry’s normative self-images, its understandings of creativity, its divisions of labour and will seek to understand whether there was greater flexibility in medium and small enterprises and in the less prestigious branches of the industry.
+
 ---
 
 

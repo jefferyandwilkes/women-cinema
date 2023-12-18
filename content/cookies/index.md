@@ -9,7 +9,8 @@ sections:
     content:
       title: 
       text: |-
-        1. What is a cookie?
+        <h6>Use of Cookies</h6?
+        <b>1. What is a cookie?</b>
 
         Most web sites use cookies to remember information about you and your preferences, either for the duration of your visit or for repeat visits. A cookie is a simple text file that is stored on your computer or mobile device by a web site, and that web site can then retrieve the contents of that cookie. 
 
@@ -17,12 +18,21 @@ sections:
 
         Cookies may be set by the web site you are visiting ('first party cookies') or by other web sites which provide content on the page you are viewing ('third party cookies').   
 
-        2. What cookies does this web site use? 
+        <b>2. What cookies does this web site use?</b> 
 
         Strictly Necessary cookies  
 
         This website only stores cookies that are strictly necessary. 
+        <b>Cookie name</b>
+        Randomly generated session cookie 
+        <b>Cookie Purpose</b>
+        These cookies are necessary for the operation of our web site, for example, those that determine whether you're signed in and who 
+        you are. 
 
-        Consent is not required for such cookies under Privacy and Electronic Communications Regulations. See Cookies and similar technologies | ICO for more information. 
+        They contain only a random alphanumeric identifier that is used to index the server’s session cache.          
+        <b>Cookie Duration</b>
+        Session cookies last until you close your browser. 
+
+        Consent is not required for such cookies under Privacy and Electronic Communications Regulations. See <a href="https://ico.org.uk/for-organisations/direct-marketing-and-privacy-and-electronic-communications/guide-to-pecr/cookies-and-similar-technologies/?q=session#exemptions">Cookies and similar technologies | ICO</a> for more information. 
 
 ---

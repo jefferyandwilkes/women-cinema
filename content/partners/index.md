@@ -19,7 +19,7 @@ sections:
         <br>
         <h6>Partner Institutions</h6>
 
-        <p><a href="https://www.brookes.ac.uk/">{{< figure src="brookes.png" alt="Oxford Brookes University Logo">}}</a> <a href="https://cinetecadibologna.it/">{{< figure src="bologna.png" alt="Oxford Brookes University Logo">}}</a> <a href="https://warwick.ac.uk/">{{< figure src="warwick.png" alt="University of Warwick Logo">}}</a><a href="https://www.ukri.org/councils/ahrc/">{{< figure src="ukri.png" alt="Arts and Humanities Research Council (AHRC) Logo">}}</a></p>
+        <p><a href="https://www.brookes.ac.uk/">{{< figure src="brookes.png" alt="Oxford Brookes University Logo">}}</a> <a href="https://cinetecadibologna.it/">{{< figure src="bologna.png" alt="Oxford Brookes University Logo">}}</a> <a href="https://warwick.ac.uk/">{{< figure src="Warwick_Logo.png" alt="University of Warwick Logo">}}</a><a href="https://www.ukri.org/councils/ahrc/">{{< figure src="ukri.png" alt="Arts and Humanities Research Council (AHRC) Logo">}}</a></p>
 
 --- 
 

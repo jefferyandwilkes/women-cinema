@@ -4,8 +4,20 @@
     content:
       title: 
       text: |-
-        This project will challenge a longstanding assumption that the many achievements of Italian cinema in the decades after World War Two were entirely due to the creative genius of a handful of male directors and the business acumen of the big producers who supported them. This picture of one of the world’s largest film industries ignores the fundamental role played by women at every level. We will explore female contributions that often remained invisible and which have been granted minimal space in film history. The project will bring to the surface a series of personal trajectories, histories of trades and functions, family stories and institutional practices that will illuminate the workings of an industry of global significance. At the same time, it will engage with creative practitioners, industry officials and workers in Italy and the UK to support - through research and policy recommendations - efforts to address the prevailing culture of gender-discrimination in media industries. In this way, history will be used as a critical weapon to disrupt prevalent understandings of gendered labour and challenge the traditional focus on predominantly male figures of visible achievement. 
-        <br>
-        The project has four core objectives.
+        1. What is a cookie?
+
+        Most web sites use cookies to remember information about you and your preferences, either for the duration of your visit or for repeat visits. A cookie is a simple text file that is stored on your computer or mobile device by a web site, and that web site can then retrieve the contents of that cookie. 
+
+        If we didn't use cookies, our web site would think you are a new visitor every time you move to a new page on the site. For example, if you were to enter your login details and then move to another page, our site wouldn't be able to remember that you'd previously signed in. 
+
+        Cookies may be set by the web site you are visiting ('first party cookies') or by other web sites which provide content on the page you are viewing ('third party cookies').   
+
+        2. What cookies does this web site use? 
+
+        Strictly Necessary cookies  
+
+        This website only stores cookies that are strictly necessary. 
+
+        Consent is not required for such cookies under Privacy and Electronic Communications Regulations. See Cookies and similar technologies | ICO for more information. 
 
 ---

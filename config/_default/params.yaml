@@ -47,7 +47,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} <a href="https://warwick.ac.uk/terms/privacy">Privacy Policy</a> - <a href="https://warwick.ac.uk/terms/general">Terms of Use</a><br>{{< figure src="brookes.png">}} '
+    notice: '© {year} <a href="https://warwick.ac.uk/terms/privacy">Privacy Policy</a> - <a href="https://warwick.ac.uk/terms/general">Terms of Use</a><br>{{< figure src="brookes.png">}} {{< figure src="bologna.png">}} {{< figure src="warwick.png">}} {{< figure src="ukri.png">}} '
     license:
       enable: false
       allow_derivatives: false

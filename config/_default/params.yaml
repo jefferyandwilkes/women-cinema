@@ -47,7 +47,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year}'
+    notice: '© {year} <a href="/">test</a>'
     license:
       enable: false
       allow_derivatives: false

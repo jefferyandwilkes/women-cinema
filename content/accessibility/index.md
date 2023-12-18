@@ -9,6 +9,8 @@ sections:
     content:
       title: 
       text: |-
+        <h6>Website Accessibility Statement</h6> 
+        <br>
         How can you use this website?
 
         This website is run by the University of Warwick. We want as many people as possible to be able to use this website.
@@ -70,8 +72,6 @@ sections:
         Issues with technology?
 
         The vast majority of our website works correctly on any web technology – we have built this website using open-source software that has given consideration to accessibility as a core requirement of the technical platform, however some of the ways we have implemented and customised this software may alter its accessibility.
-
-        Omeka S Accessibility Statement https://omeka.org/s/docs/user-manual/accessibility/
 
         For security reasons, we only support TLS 1.2 and higher security protocols; this means that some older Web Browsers will not show the site. For accessibility reasons, web browsers we support do recommend use of JavaScript and where JavaScript is disallowed in the browser, visitors may experience that some of the pages may not work properly.
 

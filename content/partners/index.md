@@ -19,7 +19,7 @@ sections:
         <br>
         <h6>Partner Institutions</h6>
 
-        <a href="/">{{< figure src="brookes.png">}}</a> {{< figure src="bologna.png">}} {{< figure src="warwick.png">}} {{< figure src="ukri.png">}}
+        <p><a href="/">{{< figure src="brookes.png">}}</a> {{< figure src="bologna.png">}} {{< figure src="warwick.png">}} {{< figure src="ukri.png">}}</p>
 
 --- 
 

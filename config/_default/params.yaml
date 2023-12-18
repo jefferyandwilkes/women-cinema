@@ -51,7 +51,7 @@ footer:
 
   <div class="p-2 bd-highlight"> <a href="https://www.brookes.ac.uk/">{{< figure src="brookes.png" alt="Oxford Brookes University Logo">}}</a></div>
   <div class="p-2 bd-highlight"><a href="https://cinetecadibologna.it/">{{< figure src="bologna.png" alt="Oxford Brookes University Logo">}}</a></div>
-  <div class="p-2 bd-highlight"><a href="https://warwick.ac.uk/">{{< figure src="warwick-logo.png" alt="University of Warwick Logo">}}</a></div>
+  <div class="p-2 bd-highlight"><a href="https://warwick.ac.uk/">{{< figure src="warwicklogo.png" alt="University of Warwick Logo">}}</a></div>
     <div class="p-2 bd-highlight"><a href="https://www.ukri.org/councils/ahrc/">{{< figure src="ukri.png" alt="Arts and Humanities Research Council (AHRC) Logo">}}</div>
 </div>'
     license:

@@ -10,6 +10,7 @@ sections:
       title: 
       text: |-
         <h6>Use of Cookies</h6>
+        <br>
         <b>1. What is a cookie?</b>
 
         Most web sites use cookies to remember information about you and your preferences, either for the duration of your visit or for repeat visits. A cookie is a simple text file that is stored on your computer or mobile device by a web site, and that web site can then retrieve the contents of that cookie. 

@@ -1,6 +1,11 @@
 ---
+title: Cookies
+date: 2022-10-24
 
-- block: contact
+type: landing
+
+sections:
+  - block: contact
     content:
       title: 
       text: |-

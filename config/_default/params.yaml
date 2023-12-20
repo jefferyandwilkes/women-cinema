@@ -48,12 +48,12 @@ header:
 footer:
   copyright:
     notice: '© {year} <a href="https://warwick.ac.uk/terms/privacy">Privacy Policy</a> - <a href="https://warwick.ac.uk/terms/general">Terms of Use</a> - <a href="/cookies/">Cookies</a> - <a href="/accessibility/">Accessibility</a><br><div class="d-flex flex-row-reverse bd-highlight">
-  
+  <div class="d-flex justify-content-center">...
   <div class="p-2 bd-highlight"> <a href="https://www.brookes.ac.uk/">{{< figure src="brookes.png" alt="Oxford Brookes University Logo">}}</a></div>
   <div class="p-2 bd-highlight"><a href="https://cinetecadibologna.it/">{{< figure src="bologna.png" alt="Oxford Brookes University Logo">}}</a></div>
   <div class="p-2 bd-highlight"><a href="https://warwick.ac.uk/">{{< figure src="warwick-master.png" alt="University of Warwick Logo">}}</a></div>
     <div class="p-2 bd-highlight"><a href="https://www.ukri.org/councils/ahrc/">{{< figure src="ukri.png" alt="Arts and Humanities Research Council (AHRC) Logo">}}</div>
-  
+  </div>
 </div>'
     license:
       enable: false

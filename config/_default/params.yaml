@@ -47,7 +47,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} <a href="https://warwick.ac.uk/terms/privacy">Privacy Policy</a> - <a href="https://warwick.ac.uk/terms/general">Terms of Use</a> - <a href="/cookies/">Cookies</a> - <a href="/accessibility/">Accessibility</a><br><div class="d-flex flex-row-reverse bd-highlight">'
+    notice: '© {year} <a href="https://warwick.ac.uk/terms/privacy">Privacy Policy</a> - <a href="https://warwick.ac.uk/terms/general">Terms of Use</a> - <a href="/cookies/">Cookies</a> - <a href="/accessibility/">Accessibility</a><br><div class="d-flex flex-row-reverse bd-highlight"></div>'
     license:
       enable: false
       allow_derivatives: false

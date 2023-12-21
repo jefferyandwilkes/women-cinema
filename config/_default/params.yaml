@@ -37,7 +37,7 @@ header:
     align: r
     logo:
       text: ''
-      filename: 'logo.png'
+      filename: 'women.png'
     show_language: false
     show_day_night: true
     show_search: true

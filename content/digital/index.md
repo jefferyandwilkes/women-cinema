@@ -15,7 +15,8 @@ sections:
       text: |
        
         
-        <p style="font-weight:300;">The project’s digital archive will contain digitised primary materials from the following archives: the Mara Blasetti and 
+        <p style="font-weight:300;">The project’s digital archive will contain digitised primary materials from the following archives: the 
+        Mara Blasetti and 
         Cecilia Mangini archives (held by our partner the Cineteca di Bologna), and the Cecchi D’Amico family archive (including papers of 
         Suso 
         Cecchi D’Amico, Silvia D’Amico, and Caterina D’Amico). Through the project team’s work, these resources will be critically  

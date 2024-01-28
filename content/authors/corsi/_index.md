@@ -10,11 +10,11 @@ last_name: Corsi
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Researcher
 
 # Organizations/Affiliations
 organizations: 
-  - name: Oxford Brookes University
+  - name: University of Warwick
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

@@ -40,7 +40,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Postdoctoral Researchers
 ---
 
 Sarah Culhane is a Virtual Visiting Research Fellow in the Department of Communication, Media and Culture at Oxford Brookes University. From 2021 to 2023 she was Assistant Professor in Italian at University College Dublin where she taught Italian cinema, literature and language. From 2018 to 2021 she was a CAROLINE Marie Skłodowska-Curie Fellow in Media Studies at Maynooth University where she led the Irish Cinema Audiences project. She conducted her PhD research as part of the Italian Cinema Audiences project (AHRC 2013-2017). Her publications include ‘The On- and Off-Screen Politics of Sophia Loren’s Musical Performances in Houseboat (1958) and It Started in Naples (1960), Musicals at the Margins, New York: Bloomsbury (2021) and the co-authored monograph Italian Cinema Audiences: Histories and Memories of Cinema-going in Post-war Italy (Bloomsbury, 2021).

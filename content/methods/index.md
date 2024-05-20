@@ -11,7 +11,7 @@ sections:
         Research Method
         
       image:
-        filename: methods.jpg
+        filename: methods-image.jpg
       text: |
         <br>
         

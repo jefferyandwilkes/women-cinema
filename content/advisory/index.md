@@ -21,13 +21,13 @@ sections:
     content:
       title: Melanie Bell
       text: |-
-        <a href="https://ahc.leeds.ac.uk/media/staff/191/professor-melanie-bell">Melanie Bell</a>, Professor in Film History, University of Leeds. In 2014 she won a major AHRC award to research the history of women in the British Film and Television Industries. This project combined statistical analysis with oral history interviewing to examine women's economic and creative contribution to cultural production in British film and television. Her publications include the book Movie Workers: The Women Who Made British Cinema (University of Illinois Press, 2021).  
+        <a href="https://ahc.leeds.ac.uk/media/staff/191/professor-melanie-bell">Melanie Bell</a>, Professor in Film History, University of Leeds. In 2014 she won a major AHRC award to research the history of women in the British Film and Television Industries. This project combined statistical analysis with oral history interviewing to examine women's economic and creative contribution to cultural production in British film and television. Her publications include the book <i>Movie Workers: The Women Who Made British Cinema</i> (University of Illinois Press, 2021).  
 
   - block: contact
     content:
       title: Mariapia Comand
       text: |-
-        <a href="https://dium.uniud.it/it/dium/persone/docenti-e-ricercatori/mariapia-comand/">Mariapia Comand</a>, Professor of Film Studies, University of Udine. A former editor of Bianco & Nero and associate editor of L’ Avventura, she is principal investigator of the research project ‘Modes, Memories and Cultures of Film Production in Italy, 1949-1976’ which concludes in 2024. Among her publications are L’immagine dialogica: il cinema tra intertestualità e dialogismo (2001); Il sorpasso (2002); Cinema Europeo (with Roy Menarini 2006); Commedia all'italiana (2010); I personaggi dei film (2013); Elsa De’ Giorgi: storia, discorsi e memorie del cinema (2022).
+        <a href="https://dium.uniud.it/it/dium/persone/docenti-e-ricercatori/mariapia-comand/">Mariapia Comand</a>, Professor of Film Studies, University of Udine. A former editor of <i>Bianco & Nero</i> and associate editor of <i>L’ Avventura</i>, she is principal investigator of the research project ‘Modes, Memories and Cultures of Film Production in Italy, 1949-1976’ which concludes in 2024. Among her publications are <i>L’immagine dialogica: il cinema tra intertestualità e dialogismo</i> (2001); </I>Il sorpasso</i> (2002); </I>Cinema Europeo</i> (with Roy Menarini 2006); </I>Commedia all'italiana</i> (2010); </I>I personaggi dei film</i> (2013); </I>Elsa De’ Giorgi: storia, discorsi e memorie del cinema</i> (2022).
 
   - block: contact
     content:
@@ -51,19 +51,19 @@ sections:
     content:
       title: Catherine O’Rawe
       text: |-
-         <a href="https://www.bristol.ac.uk/people/person/Catherine-O'Rawe-c2d061cd-690e-4abc-ae04-7a01906e1d63/">Catherine O’Rawe</a>, Professor of Italian Film and Culture, University of Bristol.  Her principal research interest lies in Italian cinema. She is the author of Stars and Masculinities in Contemporary Italian Cinema (Palgrave Macmillan, 2014), co-author (with Jacqueline Reich) of Divi: la mascolinita' nel cinema italiano (Donzelli, 2015), and of articles and chapters on contemporary and post-war Italian cinema. She is a Co-Investigator on the ERC project ‘Studiotec: Film Studios: Infrastructure, Culture, Innovation in Britain, France, Germany and Italy, 1930-60.’
+         <a href="https://www.bristol.ac.uk/people/person/Catherine-O'Rawe-c2d061cd-690e-4abc-ae04-7a01906e1d63/">Catherine O’Rawe</a>, Professor of Italian Film and Culture, University of Bristol.  Her principal research interest lies in Italian cinema. She is the author of <i>Stars and Masculinities in Contemporary Italian Cinema</i> (Palgrave Macmillan, 2014), co-author (with Jacqueline Reich) of <i>Divi: la mascolinita' nel cinema italiano</i> (Donzelli, 2015), and of articles and chapters on contemporary and post-war Italian cinema. She is a Co-Investigator on the ERC project ‘Studiotec: Film Studios: Infrastructure, Culture, Innovation in Britain, France, Germany and Italy, 1930-60.’
 
   - block: contact
     content:
       title: Shelley Stamp
       text: |-
-         <a href="https://film.ucsc.edu/faculty/shelley_stamp">Shelley Stamp</a>, Professor of Film and Digital Media, University of California at Santa Cruz. She is a film historian and curator, author of the award-winning books Lois Weber in Early Hollywood and Movie-Struck Girls: Women and Motion Picture Culture after the Nickelodeon, curator of the award-winning 6-disc set Pioneers:  First Women Filmmakers, and author of many articles on women’s filmmaking and moviegoing.  She is Founding Editor of the journal Feminist Media Histories, published quarterly by the University of California Press, and currently edit the Feminist Media Histories book series for UC Press.  
+         <a href="https://film.ucsc.edu/faculty/shelley_stamp">Shelley Stamp</a>, Professor of Film and Digital Media, University of California at Santa Cruz. She is a film historian and curator, author of the award-winning books <i>Lois Weber in Early Hollywood</i> and <i>Movie-Struck Girls: Women and Motion Picture Culture after the Nickelodeon</i>, curator of the award-winning 6-disc set <i>Pioneers:  First Women Filmmakers</i>, and author of many articles on women’s filmmaking and moviegoing.  She is Founding Editor of the journal <i>Feminist Media Histories</i>, published quarterly by the University of California Press, and currently edits the <i>Feminist Media Histories</i> book series for UC Press.  
 
   - block: contact
     content:
       title: Louise Wallenberg
       text: |-
-         <a href="https://www.su.se/english/profiles/lowal-1.190510">Louise Wallenberg</a>, Professor in Fashion Studies, Stockholm University, Sweden. She holds a PhD in Film Studies, and she was the establishing director of the Centre for Fashion Studies between 2007 and 2013. Among her publications are the collections MODE (2009); Nordic Fashion Studies (2011); Mode och modernism (2014); Fashion, Film, and the 1960s (2017); Fashion and Modernism (2018); What about all these women? (2022); and Ingmar Bergman at the Crossroads (2022).
+         <a href="https://www.su.se/english/profiles/lowal-1.190510">Louise Wallenberg</a>, Professor in Fashion Studies, Stockholm University, Sweden. She holds a PhD in Film Studies, and she was the establishing director of the Centre for Fashion Studies between 2007 and 2013. Among her publications are the collections <i>MODE</i> (2009); <i>Nordic Fashion Studies</i> (2011); <i>Mode och modernism</i> (2014); <i>Fashion, Film, and the 1960s</i> (2017); <i>Fashion and Modernism</i> (2018); <i>What about all these women?</i> (2022); and <i>Ingmar Bergman at the Crossroads</i> (2022).
                     
 ---
 

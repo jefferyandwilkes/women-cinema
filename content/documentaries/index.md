@@ -11,7 +11,7 @@ sections:
         Documentaries
         
       image:
-        filename: documentaries-image.jpeg
+        filename: documentaries-page-image.jpg
       text: |
         <br>
         

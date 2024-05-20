@@ -11,7 +11,7 @@ sections:
         Introduction
         
       image:
-        filename: introduction.jpeg
+        filename: introduction-image.jpg
       text: |
         <br>
         

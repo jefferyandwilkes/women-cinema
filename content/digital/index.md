@@ -11,7 +11,7 @@ sections:
         Digital Archive
         
       image:
-        filename: digital-archive-image.jpg
+        filename: digital-archive-page.jpg
       text: |
        
         

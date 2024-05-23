@@ -27,7 +27,7 @@ sections:
     content:
       title: Mariapia Comand
       text: |-
-        <a href="https://dium.uniud.it/it/dium/persone/docenti-e-ricercatori/mariapia-comand/">Mariapia Comand</a>, Professor of Film Studies, University of Udine. A former editor of <i>Bianco & Nero</i> and associate editor of <i>L’ Avventura</i>, she is principal investigator of the research project ‘Modes, Memories and Cultures of Film Production in Italy, 1949-1976’ which concludes in 2024. Among her publications are <i>L’immagine dialogica: il cinema tra intertestualità e dialogismo</i> (2001); </I>Il sorpasso</i> (2002); </I>Cinema Europeo</i> (with Roy Menarini 2006); </I>Commedia all'italiana</i> (2010); </I>I personaggi dei film</i> (2013); </I>Elsa De’ Giorgi: storia, discorsi e memorie del cinema</i> (2022).
+        <a href="https://dium.uniud.it/it/dium/persone/docenti-e-ricercatori/mariapia-comand/">Mariapia Comand</a>, Professor of Film Studies, University of Udine. A former editor of <i>Bianco & Nero</i> and associate editor of <i>L’ Avventura</i>, she is principal investigator of the research project ‘Modes, Memories and Cultures of Film Production in Italy, 1949-1976’ which concludes in 2024. Among her publications are <i>L’immagine dialogica: il cinema tra intertestualità e dialogismo</i> (2001); <i>Il sorpasso</i> (2002); <i>Cinema Europeo</i> (with Roy Menarini 2006); <i>Commedia all'italiana</i> (2010); <i>I personaggi dei film</i> (2013); <i>Elsa De’ Giorgi: storia, discorsi e memorie del cinema</i> (2022).
 
   - block: contact
     content:

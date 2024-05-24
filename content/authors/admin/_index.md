@@ -3,8 +3,8 @@
 title: Daniela Treveri Gennari
 
 # Full Name (for SEO)
-first_name: Daniela 
-last_name: Treveri Gennari
+first_name: Silvia 
+last_name: Dibeltulo
 
 # Is this the primary user of the site?
 superuser: true

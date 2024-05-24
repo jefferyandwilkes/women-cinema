@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Silvia Dibeltulo
+title: Daniela
 
 # Full Name (for SEO)
 first_name: Silvia 

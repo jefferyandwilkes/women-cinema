@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Daniela
+title: Daniela Treveri Gennari
 
 # Full Name (for SEO)
 first_name: Silvia 

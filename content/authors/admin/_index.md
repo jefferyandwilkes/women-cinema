@@ -14,7 +14,7 @@ role: Co-Investigator
 
 # Organizations/Affiliations
 organizations:
-  - name: Oxford Brookes University
+  - name: Oxford Brookes Universitys
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

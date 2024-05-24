@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Daniela Treveri
+title: Silvia Dibeltulo
 
 # Full Name (for SEO)
 first_name: Silvia 

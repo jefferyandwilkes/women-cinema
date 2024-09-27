@@ -40,7 +40,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoctoral Researchers
+  - Filmmaker
 ---
 
 Sara Pozzoli is an independent filmmaker who loves making portraits of people. She graduated from Centro Sperimentale di Cinematografia in Rome and from the DAMS department, at the University of Bologna. Her works have participated in several festivals, including Giornate degli Autori-Venice Days, FiDMarseille, Torino Film Festival, Festival dei Popoli in Florence, Vision du Réel in Nyon, and have been broadcast on Rai Tre and RSI. She collaborated, among others, with Nederlands Filmmuseum, Napoli Teatro Festival Italia, Planet, Canal Jimmy, LA7, University of Modena and Reggio Emilia, and RaiTre.

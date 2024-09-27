@@ -14,7 +14,7 @@ sections:
           - Test
           - Principal Investigator
           - Barry
-          - Administration
+          - Filmmaker
           - Co-Investigators
           - Postdoctoral Researchers
       sort_by: Params.last_name

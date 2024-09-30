@@ -10,7 +10,7 @@ last_name: Pozzoli
 superuser: true
 
 # Role/position
-role: Filmmaker
+role: 
 
 # Organizations/Affiliations
 organizations:

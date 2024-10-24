@@ -35,7 +35,7 @@ sections:
       text: |-
         <b>2. Data collection - Oral History</b>
         <br>
-        Extended oral testimonies will be gathered (and video-recorded) on the basis of semi-structured interviews with circa 30 women active in the industry over part of the period covered by the project.A small sample of eight interviews will be conducted with present practitioners, including members of the Mujeres nel Cinema collective, to situate contemporary experiences in relation to historical testimonies. 
+        Extended oral testimonies will be gathered (and video-recorded) on the basis of semi-structured interviews with circa 30 women active in the industry over part of the period covered by the project.A small sample of eight interviews will be conducted with present practitioners to situate contemporary experiences in relation to historical testimonies. 
 
   - block: contact
     content:

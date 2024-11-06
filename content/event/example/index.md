@@ -1,7 +1,7 @@
 ---
-title: Example Event
+title: Journal of Italian Cinema & Media Studies International Conference. Re-examining the past and envisioning the future of Italian cinema and media
 
-event: Wowchemy Conference
+event: Journal of Italian Cinema & Media Studies International Conference. Re-examining the past and envisioning the future of Italian cinema and media
 event_url: https://example.org
 
 location: Wowchemy HQ

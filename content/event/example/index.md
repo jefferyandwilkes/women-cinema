@@ -1,10 +1,10 @@
 ---
-title: Journal of Italian Cinema & Media Studies International Conference Re-examining the past and envisioning the future of Italian cinema and media
+title: Example Event
 
-event: Journal of Italian Cinema & Media Studies International Conference Re-examining the past and envisioning the future of Italian cinema and media
-event_url: https://aur.edu/sites/default/files/JICMS%202024%20Conference%20Abstracts.pdf 
+event: Wowchemy Conference
+event_url: https://example.org
 
-location: Rome
+location: Wowchemy HQ
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -12,12 +12,8 @@ address:
   postcode: '94305'
   country: United States
 
-summary: Rome Conference 2024
-abstract: 'The Women in Italian Film Production team  presented the project at the 2024 edition of the Journal of Italian Cinema & Media Studies International Conference with the panel  “Women in Italian film production: Industrial histories and gendered labour, 1945-1985”. The team presented three aspects of the research that highlight the challenges and complexities inherent in a project of this kind. The research, building on existing feminist film history, aims to investigate the place of women in Italian cinema by looking at a diverse range of professional roles.
-
-After providing an overview of the project, Dibeltulo’s paper reflected on a number of methodological questions in relation to the process of doing feminist film history through the archive. In particular, it focused on the issues of collaborative work and unfinished films, while considering the opportunities offered by collaboration with cultural institutions in terms of shaping feminist archival practices. 
-Gundle’s paper considered the challenges involved in assessing the career of screenwriter Suso Cecchi D’Amico, who threw away many of her papers and always considered herself an ‘artisan’ rather than an ‘artist’, both factors which have contributed to the very limited scholarly attention that has been paid to the most prolific and significant of postwar screenwriters. You can view Gundle’s presentation by clicking on this link:...
-Treveri Gennari’s paper explored the role of oral history in the investigation of women’s labour in the Italian film industry. It presented the case studies selected by the project and the methodological challenges of using oral history as a feminist research approach.'
+summary: An example event.
+abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -26,16 +22,16 @@ date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-# publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 
-# authors: []
-# tags: []
+authors: []
+tags: []
 
 # Is this a featured talk? (true/false)
-#  featured: false
+featured: false
 
 image:
-  caption: ''
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 url_code: ''

@@ -1,7 +1,7 @@
 ---
-title: Journal of Italian Cinema & Media Studies International Conference - Re-examining the past and envisioning the future of Italian cinema and media
+title: Journal of Italian Cinema & Media Studies International Conference Re-examining the past and envisioning the future of Italian cinema and media
 
-event: Journal of Italian Cinema & Media Studies International Conference - Re-examining the past and envisioning the future of Italian cinema and media
+event: Journal of Italian Cinema & Media Studies International Conference Re-examining the past and envisioning the future of Italian cinema and media
 event_url: https://aur.edu/sites/default/files/JICMS%202024%20Conference%20Abstracts.pdf 
 
 location: Wowchemy HQ

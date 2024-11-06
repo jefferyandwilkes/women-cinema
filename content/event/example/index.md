@@ -12,7 +12,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example event.
+summary: Rome Conference 2024
 abstract: 'The Women in Italian Film Production team  presented the project at the 2024 edition of the Journal of Italian Cinema & Media Studies International Conference with the panel  “Women in Italian film production: Industrial histories and gendered labour, 1945-1985”. The team presented three aspects of the research that highlight the challenges and complexities inherent in a project of this kind. The research, building on existing feminist film history, aims to investigate the place of women in Italian cinema by looking at a diverse range of professional roles.
 
 After providing an overview of the project, Dibeltulo’s paper reflected on a number of methodological questions in relation to the process of doing feminist film history through the archive. In particular, it focused on the issues of collaborative work and unfinished films, while considering the opportunities offered by collaboration with cultural institutions in terms of shaping feminist archival practices. 

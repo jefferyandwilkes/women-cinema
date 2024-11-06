@@ -1,7 +1,7 @@
 ---
-title: Rome Conference 2024
+title: Journal of Italian Cinema & Media Studies International Conference: Re-examining the past and envisioning the future of Italian cinema and media
 
-event: Rome Conference 2024
+event: Journal of Italian Cinema & Media Studies International Conference: Re-examining the past and envisioning the future of Italian cinema and media
 event_url: https://aur.edu/sites/default/files/JICMS%202024%20Conference%20Abstracts.pdf 
 
 location: Wowchemy HQ
@@ -26,16 +26,16 @@ date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+# publishDate: '2017-01-01T00:00:00Z'
 
-authors: []
-tags: []
+# authors: []
+# tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+#  featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+ #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 url_code: ''

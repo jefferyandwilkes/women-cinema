@@ -1,8 +1,8 @@
 ---
-title: Journal of Italian Cinema & Media Studies International Conference. Re-examining the past and envisioning the future of Italian cinema and media
+title: Journal of Italian Cinema & Media Studies International Conference - Re-examining the past and envisioning the future of Italian cinema and media
 
-event: Journal of Italian Cinema & Media Studies International Conference. Re-examining the past and envisioning the future of Italian cinema and media
-event_url: https://example.org
+event: Journal of Italian Cinema & Media Studies International Conference - Re-examining the past and envisioning the future of Italian cinema and media
+event_url: https://aur.edu/sites/default/files/JICMS%202024%20Conference%20Abstracts.pdf 
 
 location: Wowchemy HQ
 address:
@@ -21,9 +21,9 @@ Treveri Gennari’s paper explored the role of oral history in the investigation
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+date: '2024-16-01T13:00:00Z'
+date_end: '2024-16-01T15:00:00Z'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -35,7 +35,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 url_code: ''

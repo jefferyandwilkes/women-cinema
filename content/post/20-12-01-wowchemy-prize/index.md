@@ -1,6 +1,6 @@
 ---
 title: Archival experiences. Cecilia Mangini and Mara Blasetti
-date: 2020-12-01
+date: 
 ---
 
 Entering a personal archive means gaining access to someone’s life, meeting someone unknown before and, in a certain sense, invading a personal space. Depending on the type of archive, you will find more or less personal objects and documents, but all of them tell a story, an individual’s story. Sometimes this story is strongly  related to his or her work, but in some instances  it is more personal. For this reason, it is with a sort of reverential respect, almost on tiptoe, that I inspect and rummage into someone’s papers.

@@ -1,16 +1,26 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
-date: 2020-12-02
+title: Interviewing Women In Italian Cinema
+date: 
 image:
   focal_point: 'top'
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+I’ve been a journalist for twenty-five  years. In my career I’ve interviewed many film professionals, mostly directors, but the Women in Italian Film Production project was such a different experience for me.For the project, with my colleagues Daniela Treveri Gennari and Silvia Dibeltulo, I conducted thirty-eight interviews with female film professionals working in the Italian film industry. 
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+All the interviewees were asked a series of standardized questions, which,  although it may seem like a boring practice, is an effective method to detect trends, similarities and differences in their experiences. Asking the right questions in a confidential environment is the key to understanding their personality and life choices. 
+The group of people we spoke to is composed of producers, heads of production, distributors, VFX artists, costume designers, casting directors, continuity supervisors, assistant directors: all below- the-line female workers . Despite their different roles, the ways in which  they describe their work and experience are often similar.
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+I was struck by how often the following topics recur in their testimonies:
+Fate: most of them started to work in the film industry by chance, without having planned it. Some of them sent a last-minute application for the Italian National School of Cinema (CSC), while not being entirely confident that they would be successful in  their attempt.
+Passion: they smile a lot while talking about their work. It looks like it’s one of the most important things in their life, if not the most important one.
+Professionalism: all these women are very independent, since they have built their careers on their own. They want to be recognized for the quality of their work, just like their male colleagues are.
+Fun: working on set is tiring and stressful, because of long shifts and psychological pressure, but this doesn’t matter, as the upside is that they  have a lot of fun. According to their statements, working in the film industry is a source of unique experiences, interesting encounters, and unforgettable moments of collective fun.
+Family: they mean the family that gets created while shooting a film, when 100 to 200 people strive together towards a creative goal. This kind of partnership can be very powerful and sometimes almost more important than your own family. For some of these women the family built on set is the family they choose.
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+The photo chosen for this blog post was taken during one of the interviews. It is a motto adopted by one of our interviewees that means "Ignore your responsibilities. Pretend to be dead." It is a way out that women should practice more, as animals do, instead of always being ready and present.
+
+Barbara Corsi
+
+

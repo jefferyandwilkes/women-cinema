@@ -13,22 +13,34 @@ address:
   country: 
 
 summary: Women In Film Production - Methods, Comparisons, Resources
-abstract: '**Re-examining the past and envisioning the future of Italian cinema and media.**
-<br/>
-<br/>
-The Women in Italian Film Production team  presented the project at the 2024 edition of the Journal of Italian Cinema & Media Studies International Conference with the panel  “Women in Italian film production: Industrial histories and gendered labour, 1945-1985”. The team presented three aspects of the research that highlight the challenges and complexities inherent in a project of this kind. The research, building on existing feminist film history, aims to investigate the place of women in Italian cinema by looking at a diverse range of professional roles.
-<br/>
-<br/>
-After providing an overview of the project, Dibeltulo’s paper reflected on a number of methodological questions in relation to the process of doing feminist film history through the archive. In particular, it focused on the issues of collaborative work and unfinished films, while considering the opportunities offered by collaboration with cultural institutions in terms of shaping feminist archival practices. 
-<br/>
-<br/>
-Gundle’s paper considered the challenges involved in assessing the career of screenwriter Suso Cecchi D’Amico, who threw away many of her papers and always considered herself an ‘artisan’ rather than an ‘artist’, both factors which have contributed to the very limited scholarly attention that has been paid to the most prolific and significant of postwar screenwriters. You can view Gundle’s presentation by clicking on this link:...
-<br/>
-<br/>
-Treveri Gennari’s paper explored the role of oral history in the investigation of women’s labour in the Italian film industry. It presented the case studies selected by the project and the methodological challenges of using oral history as a feminist research approach.
-<br/>
-<br/>
-For further details see the <a href="https://aur.edu/sites/default/files/JICMS%202024%20Conference%20Abstracts.pdf">conference abstract.</a>'
+abstract: 'The team organised an opening workshop for our AHRC-funded project ‘Women in Italian Film Production: Industrial Histories and Gendered labour, 1945-85’ (University of Warwick/Oxford Brookes University) at Warwick University in June 2023. The workshop allowed the team and participating experts to reflect on the role of women within the cinema industry, while exploring specific methods and resources in the field of feminist film history. The aim of the workshop was to bring together researchers from different backgrounds in order to share experiences, ideas, and methodologies, while also developing new paths for future research
+
+Programme
+Introduction: Stephen Gundle, Daniela Treveri Gennari, Silvia Dibeltulo
+Shelley Cobb (University of Southampton) and Linda Ruth Williams (University of Exeter): Oral histories of women filmmakers: questions we wished we'd asked and how we found answers to them anyway
+Melanie Bell (University of Leeds): Towards a feminist methodology of women's gendered labour in film production
+Maria Janssen (University of Örebro): Analysing experiences through interviews: methods and theoretical underpinnings
+Catherine O’Rawe (University of Bristol): Studiotec – gender and the European film studio
+Dalila Missero (University of Lancaster): Women, film and archives: an interstitial historiography?
+Stephen Gundle: Perspectives from 1972 on women in the Italian film industry
+Clara Giannini (Oxford Brookes University): The Cecilia Mangini archive, Bologna 
+Barbara Corsi (University of Warwick): Silvia D’Amico, film producer 
+Screening of documentary: ‘Italian Cinema and Its Great Producers’ (by Barbara Corsi)
+ 
+Speakers:
+ 
+Melanie Bell, Professor in Film History, University of Leeds
+Shelley Cobb, Professor of Film and Feminist Media Studies, University of Southampton
+Barbara Corsi, AHRC project Research Fellow, University of Warwick
+Silvia Dibeltulo, Senior Lecturer in Communication, Media and Culture, oxford Brookes University
+Clara Giannini, AHRC project Research Fellow, Oxford Brookes University
+Stephen Gundle, Professor of Film and Television Studies, University of Warwick
+Maria Jannsen, Professor of Gender Studies and Associate Professor of Political Science, Örebro University, Sweden
+Catherine O’Rawe, Professor of Italian Film and Culture, University of Bristol
+Dalila Missero, Lecturer in Film Studies, University of Lancaster
+Daniela Treveri Gennari, Professor of Cinema Studies, Oxford Brookes University 
+Linda Ruth Williams, Professor of Film Studies, University of Exeter       
+'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

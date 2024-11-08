@@ -16,16 +16,16 @@ summary: Women In Film Production - Methods, Comparisons, Resources
 abstract: 'The team organised an opening workshop for our AHRC-funded project ‘Women in Italian Film Production: Industrial Histories and Gendered labour, 1945-85’ (University of Warwick/Oxford Brookes University) at Warwick University in June 2023. The workshop allowed the team and participating experts to reflect on the role of women within the cinema industry, while exploring specific methods and resources in the field of feminist film history. The aim of the workshop was to bring together researchers from different backgrounds in order to share experiences, ideas, and methodologies, while also developing new paths for future research
 
 Programme
-Introduction: Stephen Gundle, Daniela Treveri Gennari, Silvia Dibeltulo
-Shelley Cobb (University of Southampton) and Linda Ruth Williams (University of Exeter): Oral histories of women filmmakers: questions we wished we'd asked and how we found answers to them anyway
-Melanie Bell (University of Leeds): Towards a feminist methodology of women's gendered labour in film production
-Maria Janssen (University of Örebro): Analysing experiences through interviews: methods and theoretical underpinnings
-Catherine O’Rawe (University of Bristol): Studiotec – gender and the European film studio
-Dalila Missero (University of Lancaster): Women, film and archives: an interstitial historiography?
-Stephen Gundle: Perspectives from 1972 on women in the Italian film industry
-Clara Giannini (Oxford Brookes University): The Cecilia Mangini archive, Bologna 
+Introduction Stephen Gundle, Daniela Treveri Gennari, Silvia Dibeltulo
+Shelley Cobb (University of Southampton) and Linda Ruth Williams (University of Exeter). Oral histories of women filmmakers: questions we wished we'd asked and how we found answers to them anyway
+Melanie Bell (University of Leeds) Towards a feminist methodology of women's gendered labour in film production
+Maria Janssen (University of Örebro) Analysing experiences through interviews: methods and theoretical underpinnings
+Catherine O’Rawe (University of Bristol) Studiotec – gender and the European film studio
+Dalila Missero (University of Lancaster) Women, film and archives: an interstitial historiography?
+Stephen Gundle Perspectives from 1972 on women in the Italian film industry
+Clara Giannini (Oxford Brookes University) The Cecilia Mangini archive, Bologna 
 Barbara Corsi (University of Warwick): Silvia D’Amico, film producer 
-Screening of documentary: ‘Italian Cinema and Its Great Producers’ (by Barbara Corsi)
+Screening of documentary ‘Italian Cinema and Its Great Producers’ (by Barbara Corsi)
  
 Speakers:
  

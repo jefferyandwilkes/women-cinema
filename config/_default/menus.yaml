@@ -47,15 +47,9 @@ main:
   - name: Documentaries
     parent: outputs
     url: documentaries
-    weight: 30  
-  - name: Events
-    url: digital
-    weight: 50   
-  - name: Stories
-    url: post
-    weight: 60    
+    weight: 30   
   - name: Contact
     url: contact
-    weight: 70
+    weight: 50
 
     

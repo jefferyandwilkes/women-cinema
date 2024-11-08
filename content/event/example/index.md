@@ -1,7 +1,7 @@
 ---
-title: Journal of Italian Cinema & Media Studies International Conference - 
+title: Journal of Italian Cinema & Media Studies International Conference 
 
-event: Journal of Italian Cinema & Media Studies International Conference
+event: 
 event_url: 
 
 location: 

@@ -48,8 +48,14 @@ main:
     parent: outputs
     url: documentaries
     weight: 30   
+  - name: Events
+    url: event
+    weight: 50   
+  - name: Stories
+    url: post
+    weight: 60      
   - name: Contact
     url: contact
-    weight: 50
+    weight: 70
 
     

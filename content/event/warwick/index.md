@@ -17,7 +17,7 @@ abstract: 'The team organised an opening workshop for our AHRC-funded project Wo
 
 Programme
 Introduction Stephen Gundle, Daniela Treveri Gennari, Silvia Dibeltulo
-Shelley Cobb (University of Southampton) and Linda Ruth Williams (University of Exeter). Oral histories of women filmmakers: questions we wished we'd asked and how we found answers to them anyway
+Shelley Cobb (University of Southampton) and Linda Ruth Williams (University of Exeter). Oral histories of women filmmakers - questions we wished we'd asked and how we found answers to them anyway
 Melanie Bell (University of Leeds) Towards a feminist methodology of women's gendered labour in film production
 Maria Janssen (University of Örebro) Analysing experiences through interviews: methods and theoretical underpinnings
 Catherine O’Rawe (University of Bristol) Studiotec – gender and the European film studio
@@ -32,7 +32,7 @@ Speakers:
 Melanie Bell, Professor in Film History, University of Leeds
 Shelley Cobb, Professor of Film and Feminist Media Studies, University of Southampton
 Barbara Corsi, AHRC project Research Fellow, University of Warwick
-Silvia Dibeltulo, Senior Lecturer in Communication, Media and Culture, oxford Brookes University
+Silvia Dibeltulo, Senior Lecturer in Communication, Media and Culture, Oxford Brookes University
 Clara Giannini, AHRC project Research Fellow, Oxford Brookes University
 Stephen Gundle, Professor of Film and Television Studies, University of Warwick
 Maria Jannsen, Professor of Gender Studies and Associate Professor of Political Science, Örebro University, Sweden

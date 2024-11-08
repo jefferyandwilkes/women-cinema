@@ -27,7 +27,7 @@ Clara Giannini (Oxford Brookes University) The Cecilia Mangini archive, Bologna
 Barbara Corsi (University of Warwick) Silvia D’Amico, film producer 
 Screening of documentary ‘Italian Cinema and Its Great Producers’ (by Barbara Corsi)
  
-Speakers:
+Speakers
  
 Melanie Bell, Professor in Film History, University of Leeds
 Shelley Cobb, Professor of Film and Feminist Media Studies, University of Southampton

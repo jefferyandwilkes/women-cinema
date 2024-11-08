@@ -49,7 +49,7 @@ main:
     url: documentaries
     weight: 30  
   - name: Events
-    url: event
+    url: digital
     weight: 50   
   - name: Stories
     url: post

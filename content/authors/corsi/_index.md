@@ -40,7 +40,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoctoral Researchers
+  - 
 ---
 
 Barbara Corsi has taught Economics of the Entertainment Industry at the University of Padua and at the University Cattolica and IULM in Milan. She has worked at ANICA’s Italian cinema archives and written essays and biographical entries, as well as three monographs, <i>Con qualche dollaro in meno</i> (2001), <i>Produzione e produttori </i> (2012), <i>Un ettaro di cielo e 39 di terreno. Storia d’impresa di Franco Cristaldi </i> (2021). Between 2016 and 2019 she was Research Fellow at the University of Warwick, working on the AHRC Italian film producers project. Her research focuses on the history of the Italian film industry with a special focus on production, distribution and the market.

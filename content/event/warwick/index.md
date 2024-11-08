@@ -42,8 +42,8 @@ Maria Jannsen, Professor of Gender Studies and Associate Professor of Political 
 Catherine O’Rawe, Professor of Italian Film and Culture, University of Bristol
 Dalila Missero, Lecturer in Film Studies, University of Lancaster
 Daniela Treveri Gennari, Professor of Cinema Studies, Oxford Brookes University 
-Linda Ruth Williams, Professor of Film Studies, University of Exeter'          
-
+Linda Ruth Williams, Professor of Film Studies, University of Exeter         
+'
 
 
 

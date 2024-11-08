@@ -14,8 +14,9 @@ address:
 
 summary: Women In Film Production - Methods, Comparisons, Resources
 abstract: 'The team organised an opening workshop for our AHRC-funded project Women in Italian Film Production - Industrial Histories and Gendered labour, 1945-85 (University of Warwick/Oxford Brookes University) at Warwick University in June 2023. The workshop allowed the team and participating experts to reflect on the role of women within the cinema industry, while exploring specific methods and resources in the field of feminist film history. The aim of the workshop was to bring together researchers from different backgrounds in order to share experiences, ideas, and methodologies, while also developing new paths for future research.     
-
+<br/>
 **Programme**
+<br/>
 Introduction Stephen Gundle, Daniela Treveri Gennari, Silvia Dibeltulo <br/>
 Shelley Cobb (University of Southampton) and Linda Ruth Williams (University of Exeter). Oral histories of women filmmakers - questions we wished we had asked and how we found answers to them anyway <br/>
 Melanie Bell (University of Leeds) Towards a feminist methodology of womens gendered labour in film production <br/>

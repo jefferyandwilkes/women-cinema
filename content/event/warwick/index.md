@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Women In Film Production: Methods, Comparisons, Resources
+summary: Women In Film Production - Methods, Comparisons, Resources
 abstract: '**Re-examining the past and envisioning the future of Italian cinema and media.**
 <br/>
 <br/>

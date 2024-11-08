@@ -27,8 +27,8 @@ For further details see the <a href="https://aur.edu/sites/default/files/JICMS%2
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-06-16T13:00:00Z'
-date_end: '2024-06-16T15:00:00Z'
+date: ''
+date_end: ''
 all_day: false
 
 # Schedule page publish date (NOT talk date).

@@ -27,19 +27,7 @@ Clara Giannini (Oxford Brookes University) The Cecilia Mangini archive, Bologna
 Barbara Corsi (University of Warwick) Silvia D’Amico, film producer 
 Screening of documentary ‘Italian Cinema and Its Great Producers’ (by Barbara Corsi)
  
-Speakers
- 
-Melanie Bell, Professor in Film History, University of Leeds
-Shelley Cobb, Professor of Film and Feminist Media Studies, University of Southampton
-Barbara Corsi, AHRC project Research Fellow, University of Warwick
-Silvia Dibeltulo, Senior Lecturer in Communication, Media and Culture, Oxford Brookes University
-Clara Giannini, AHRC project Research Fellow, Oxford Brookes University
-Stephen Gundle, Professor of Film and Television Studies, University of Warwick
-Maria Jannsen, Professor of Gender Studies and Associate Professor of Political Science, Örebro University, Sweden
-Catherine O’Rawe, Professor of Italian Film and Culture, University of Bristol
-Dalila Missero, Lecturer in Film Studies, University of Lancaster
-Daniela Treveri Gennari, Professor of Cinema Studies, Oxford Brookes University 
-Linda Ruth Williams, Professor of Film Studies, University of Exeter  
+
 
 
 '

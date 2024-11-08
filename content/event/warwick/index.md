@@ -19,9 +19,9 @@ Programme
 Introduction Stephen Gundle, Daniela Treveri Gennari, Silvia Dibeltulo
 Shelley Cobb (University of Southampton) and Linda Ruth Williams (University of Exeter). Oral histories of women filmmakers - questions we wished we'd asked and how we found answers to them anyway
 Melanie Bell (University of Leeds) Towards a feminist methodology of women's gendered labour in film production
-Maria Janssen (University of Örebro) Analysing experiences through interviews: methods and theoretical underpinnings
+Maria Janssen (University of Örebro) Analysing experiences through interviews - methods and theoretical underpinnings
 Catherine O’Rawe (University of Bristol) Studiotec – gender and the European film studio
-Dalila Missero (University of Lancaster) Women, film and archives: an interstitial historiography?
+Dalila Missero (University of Lancaster) Women, film and archives - an interstitial historiography?
 Stephen Gundle Perspectives from 1972 on women in the Italian film industry
 Clara Giannini (Oxford Brookes University) The Cecilia Mangini archive, Bologna 
 Barbara Corsi (University of Warwick) Silvia D’Amico, film producer 

@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-I’ve been a journalist for twenty-five  years. In my career I’ve interviewed many film professionals, mostly directors, but the **Women in Italian Film Production** project was such a different experience for me.For the project, with my colleagues Daniela Treveri Gennari and Silvia Dibeltulo, I conducted thirty-eight interviews with female film professionals working in the Italian film industry. 
+I’ve been a journalist for twenty-five  years. In my career I’ve interviewed many film professionals, mostly directors, but the **Women in Italian Film Production** project was such a different experience for me.For the project, with my colleagues Daniela Treveri Gennari and Silvia Dibeltulo, I conducted thirty-eight interviews with female film professionals working in the Italian film industry.  :
 
 <!--more-->
 

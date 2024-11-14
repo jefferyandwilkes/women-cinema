@@ -17,9 +17,10 @@ abstract: 'The team organised an opening workshop for our AHRC-funded project Wo
 <br/>
 **Programme**
 <br/>
-Introduction Stephen Gundle, Daniela Treveri Gennari, Silvia Dibeltulo 
+<br/>
+Introduction - Stephen Gundle, Daniela Treveri Gennari, Silvia Dibeltulo 
 Shelley Cobb (University of Southampton) and Linda Ruth Williams (University of Exeter). 
-<br/>**Oral histories of women filmmakers - questions we wished we had asked and how we found answers to them anyway **<br/><br/>
+<br/>**Oral histories of women filmmakers - questions we wished we had asked and how we found answers to them anyway**<br/><br/>
 Melanie Bell (University of Leeds) <br/>**Towards a feminist methodology of womens gendered labour in film production** <br/><br/>
 Maria Janssen (University of Örebro)<br/> **Analysing experiences through interviews - methods and theoretical underpinnings** <br/><br/>
 Catherine O’Rawe (University of Bristol)<br/> **Studiotec – gender and the European film studi**o  <br/><br/>

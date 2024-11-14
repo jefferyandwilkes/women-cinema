@@ -8,6 +8,7 @@ image:
 I’ve been a journalist for twenty-five  years. In my career I’ve interviewed many film professionals, mostly directors, but the **Women in Italian Film Production** project was such a different experience for me.For the project, with my colleagues Daniela Treveri Gennari and Silvia Dibeltulo, I conducted thirty-eight interviews with female film professionals working in the Italian film industry. 
 
 <!--more-->
+
 All the interviewees were asked a series of standardized questions, which,  although it may seem like a boring practice, is an effective method to detect trends, similarities and differences in their experiences. Asking the right questions in a confidential environment is the key to understanding their personality and life choices. 
 The group of people we spoke to is composed of producers, heads of production, distributors, VFX artists, costume designers, casting directors, continuity supervisors, assistant directors: all below- the-line female workers . Despite their different roles, the ways in which  they describe their work and experience are often similar.
 

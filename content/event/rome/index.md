@@ -30,7 +30,6 @@ Treveri Gennari’s paper explored the role of oral history in the investigation
 <br/>
 <br/>
 For further details see the <a href="https://aur.edu/sites/default/files/JICMS%202024%20Conference%20Abstracts.pdf">conference abstract.</a>'
-
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: ''

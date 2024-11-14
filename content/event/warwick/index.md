@@ -17,17 +17,16 @@ abstract: 'The team organised an opening workshop for our AHRC-funded project Wo
 <br/><br/>
 **Programme**
 <br/>
-<br/>
 <ul><li>Introduction - Stephen Gundle, Daniela Treveri Gennari, Silvia Dibeltulo </li>
-Shelley Cobb (University of Southampton) and Linda Ruth Williams (University of Exeter). 
+<li>Shelley Cobb (University of Southampton) and Linda Ruth Williams (University of Exeter). 
 <br/>**Oral histories of women filmmakers - questions we wished we had asked and how we found answers to them anyway**</li>
-Melanie Bell (University of Leeds) <br/>**Towards a feminist methodology of womens gendered labour in film production**</li>
-Maria Janssen (University of Örebro)<br/> **Analysing experiences through interviews - methods and theoretical underpinnings**</li>
-Catherine O’Rawe (University of Bristol)<br/> **Studiotec – gender and the European film studio**</li>
-Dalila Missero (University of Lancaster)<br/> **Women, film and archives - an interstitial historiography?**</li>
-Stephen Gundle <br/> **Perspectives from 1972 on women in the Italian film industry**</li>
-Clara Giannini (Oxford Brookes University) <br/> **The Cecilia Mangini archive, Bologna**</li>
-Barbara Corsi (University of Warwick) Silvia D’Amico, film producer   <br/>
+<li>Melanie Bell (University of Leeds) <br/>**Towards a feminist methodology of womens gendered labour in film production**</li>
+<li>Maria Janssen (University of Örebro)<br/> **Analysing experiences through interviews - methods and theoretical underpinnings**</li>
+<li>Catherine O’Rawe (University of Bristol)<br/> **Studiotec – gender and the European film studio**</li>
+<li>Dalila Missero (University of Lancaster)<br/> **Women, film and archives - an interstitial historiography?**</li>
+<li>Stephen Gundle <br/> **Perspectives from 1972 on women in the Italian film industry**</li>
+<li>Clara Giannini (Oxford Brookes University) <br/> **The Cecilia Mangini archive, Bologna**</li>
+<li>Barbara Corsi (University of Warwick) Silvia D’Amico, film producer   <br/>
 **Screening of documentary Italian Cinema and Its Great Producers (by Barbara Corsi)** </li></ul> <br/><br/>
 
 **Speakers**

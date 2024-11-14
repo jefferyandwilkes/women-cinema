@@ -27,7 +27,7 @@ abstract: 'The team organised an opening workshop for our AHRC-funded project Wo
 <li>Stephen Gundle <br/> **Perspectives from 1972 on women in the Italian film industry**</li>
 <li>Clara Giannini (Oxford Brookes University) <br/> **The Cecilia Mangini archive, Bologna**</li>
 <li>Barbara Corsi (University of Warwick) Silvia D’Amico, film producer   <br/>
-**Screening of documentary Italian Cinema and Its Great Producers (by Barbara Corsi)** </li></ul> <br/><br/>
+**Screening of documentary Italian Cinema and Its Great Producers (by Barbara Corsi)** </li></ul> <br/>
 
 **Speakers**
  <br/>

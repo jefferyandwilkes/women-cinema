@@ -21,4 +21,6 @@ I was struck by how often the following topics recur in their testimonies:
 
 The photo chosen for this blog post was taken during one of the interviews. It is a motto adopted by one of our interviewees that means "Ignore your responsibilities. Pretend to be dead." It is a way out that women should practice more, as animals do, instead of always being ready and present.
 
+Barbera Corsi
+
 

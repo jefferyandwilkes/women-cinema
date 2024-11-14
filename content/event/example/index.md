@@ -22,8 +22,9 @@ The Women in Italian Film Production team  presented the project at the 2024 edi
 After providing an overview of the project, Dibeltulo’s paper reflected on a number of methodological questions in relation to the process of doing feminist film history through the archive. In particular, it focused on the issues of collaborative work and unfinished films, while considering the opportunities offered by collaboration with cultural institutions in terms of shaping feminist archival practices. 
 <br/>
 <br/>
-Gundle’s paper considered the challenges involved in assessing the career of screenwriter Suso Cecchi D’Amico, who threw away many of her papers and always considered herself an ‘artisan’ rather than an ‘artist’, both factors which have contributed to the very limited scholarly attention that has been paid to the most prolific and significant of postwar screenwriters. You can view Gundle’s presentation by clicking on this link:...
+Gundle’s paper considered the challenges involved in assessing the career of screenwriter Suso Cecchi D’Amico, who threw away many of her papers and always considered herself an ‘artisan’ rather than an ‘artist’, both factors which have contributed to the very limited scholarly attention that has been paid to the most prolific and significant of postwar screenwriters. You can view Gundle’s presentation below
 <br/>
+{{< video src="rome.mp4" controls="yes" >}}
 <br/>
 Treveri Gennari’s paper explored the role of oral history in the investigation of women’s labour in the Italian film industry. It presented the case studies selected by the project and the methodological challenges of using oral history as a feminist research approach.
 <br/>

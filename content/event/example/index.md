@@ -15,6 +15,7 @@ address:
 summary: Re-examining the past and envisioning the future of Italian cinema and media
 abstract: '**Re-examining the past and envisioning the future of Italian cinema and media.**
 <br/>
+<br/>
 The Women in Italian Film Production team  presented the project at the 2024 edition of the Journal of Italian Cinema & Media Studies International Conference with the panel  “Women in Italian film production: Industrial histories and gendered labour, 1945-1985”. The team presented three aspects of the research that highlight the challenges and complexities inherent in a project of this kind. The research, building on existing feminist film history, aims to investigate the place of women in Italian cinema by looking at a diverse range of professional roles.
 <br/>
 <br/>

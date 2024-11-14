@@ -18,29 +18,32 @@ abstract: 'The team organised an opening workshop for our AHRC-funded project Wo
 **Programme**
 <br/>
 Introduction Stephen Gundle, Daniela Treveri Gennari, Silvia Dibeltulo 
-Shelley Cobb (University of Southampton) and Linda Ruth Williams (University of Exeter). Oral histories of women filmmakers - questions we wished we had asked and how we found answers to them anyway <br/><br/>
-Melanie Bell (University of Leeds) Towards a feminist methodology of womens gendered labour in film production <br/><br/>
-Maria Janssen (University of Örebro) Analysing experiences through interviews - methods and theoretical underpinnings <br/><br/>
-Catherine O’Rawe (University of Bristol) Studiotec – gender and the European film studio  <br/><br/>
-Dalila Missero (University of Lancaster) Women, film and archives - an interstitial historiography?  <br/><br/>
-Stephen Gundle Perspectives from 1972 on women in the Italian film industry  <br/><br/>
-Clara Giannini (Oxford Brookes University) The Cecilia Mangini archive, Bologna   <br/><br/>
+Shelley Cobb (University of Southampton) and Linda Ruth Williams (University of Exeter). 
+<br/>**Oral histories of women filmmakers - questions we wished we had asked and how we found answers to them anyway **<br/><br/>
+Melanie Bell (University of Leeds) <br/><br/> **Towards a feminist methodology of womens gendered labour in film production** <br/><br/>
+Maria Janssen (University of Örebro)<br/><br/> **Analysing experiences through interviews - methods and theoretical underpinnings** <br/><br/>
+Catherine O’Rawe (University of Bristol)<br/><br/> **Studiotec – gender and the European film studi**o  <br/><br/>
+Dalila Missero (University of Lancaster)<br/><br/> **Women, film and archives - an interstitial historiography?**  <br/><br/>
+Stephen Gundle <br/><br/> **Perspectives from 1972 on women in the Italian film industry**  <br/><br/>
+Clara Giannini (Oxford Brookes University) <br/><br/> **The Cecilia Mangini archive, Bologna **  <br/><br/>
 Barbara Corsi (University of Warwick) Silvia D’Amico, film producer   <br/><br/>
-Screening of documentary Italian Cinema and Its Great Producers (by Barbara Corsi) <br/><br/>
+**Screening of documentary Italian Cinema and Its Great Producers (by Barbara Corsi)** <br/><br/>
 
 **Speakers**
  <br/>
-Melanie Bell, Professor in Film History, University of Leeds <br/><br/>
-Shelley Cobb, Professor of Film and Feminist Media Studies, University of Southampton <br/><br/>
-Barbara Corsi, AHRC project Research Fellow, University of Warwick <br/><br/>
-Silvia Dibeltulo, Senior Lecturer in Communication, Media and Culture, Oxford Brookes University <br/><br/>
-Clara Giannini, AHRC project Research Fellow, Oxford Brookes University <br/><br/>
-Stephen Gundle, Professor of Film and Television Studies, University of Warwick  <br/><br/>
-Maria Jannsen, Professor of Gender Studies and Associate Professor of Political Science, Örebro University, Sweden  <br/><br/>
-Catherine O’Rawe, Professor of Italian Film and Culture, University of Bristol  <br/><br/>
-Dalila Missero, Lecturer in Film Studies, University of Lancaster  <br/><br/>
-Daniela Treveri Gennari, Professor of Cinema Studies, Oxford Brookes University   <br/><br/>
-Linda Ruth Williams, Professor of Film Studies, University of Exeter  
+<ul>
+<li>Melanie Bell, Professor in Film History, University of Leeds</li> <br/><br/>
+<li>Shelley Cobb, Professor of Film and Feminist Media Studies, University of Southampton</li> <br/><br/>
+<li>Barbara Corsi, AHRC project Research Fellow, University of Warwick</li> <br/><br/>
+<li>Silvia Dibeltulo, Senior Lecturer in Communication, Media and Culture, Oxford Brookes University</li> <br/><br/>
+<li>Clara Giannini, AHRC project Research Fellow, Oxford Brookes University</li> <br/><br/>
+<li>Stephen Gundle, Professor of Film and Television Studies, University of Warwick</li>  <br/><br/>
+<li>Maria Jannsen, Professor of Gender Studies and Associate Professor of Political Science, Örebro University, Sweden</li>  <br/><br/>
+<li>Catherine O’Rawe, Professor of Italian Film and Culture, University of Bristol</li>  <br/><br/>
+<li>Dalila Missero, Lecturer in Film Studies, University of Lancaster</li>  <br/><br/>
+<li>Daniela Treveri Gennari, Professor of Cinema Studies, Oxford Brookes University</li>   <br/><br/>
+<li>Linda Ruth Williams, Professor of Film Studies, University of Exeter</li>
+</ul>  
  
 
 

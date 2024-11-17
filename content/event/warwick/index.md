@@ -1,5 +1,5 @@
 ---
-title: Women In Film Production: Methods, Comparisons, Resources
+title: "Women In Film Production: Methods, Comparisons, Resources"
 
 event: 
 event_url: 

@@ -1,5 +1,5 @@
 ---
-title: Interviewing Women In Italian Cinema : test
+title: Interviewing Women In Italian Cinema
 date: 
 image:
   focal_point: 'top'

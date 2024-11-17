@@ -1,5 +1,5 @@
 ---
-title: "Journal of Italian Cinema & Media Studies International Conference: Re-examining the past and envisioning the future of Italian cinema and media"
+title: "Journal of Italian Cinema & Media Studies International Conference: Re-examining the past and envisioning the future of Italian cinema and media" 
 
 event: 
 event_url: 

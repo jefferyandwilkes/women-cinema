@@ -13,7 +13,7 @@ address:
   country: 
 
 summary: February 14th 2025
-abstract: 'Doctor Silvia Dibeltulo and professor Daniela Treveri Gennari will give a talk titled “Doing oral history beyond audiences.” The talk will focus on the oral history work carried out during the Women in Italian Film Production project. The event will be hosted during the TAP (The Audience Project) seminar series at Oxford Brookes University, and it will take place on February 14th 2025 from 12 to 1pm.'
+abstract: 'Doctor Silvia Dibeltulo and professor Daniela Treveri Gennari will give a talk titled “Doing oral history beyond audiences.” The talk will focus on the oral history work carried out during the Women in Italian Film Production project. The event will be hosted during the TAP (The Audience Project) seminar series at Oxford Brookes University, and it will take place on February 14th 2025 from 12 to 1pm.'  
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: ''

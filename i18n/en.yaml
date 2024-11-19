@@ -174,7 +174,7 @@
 # Publication/Event details
 
 - id: abstract
-  translation: Abstract
+  translation: 
 
 - id: publication
   translation: Publication

@@ -2,7 +2,7 @@
 title: Upcoming Events
 date: 2022-10-24
 
-type: landing
+type: 
 
 sections:
   - block: contact

@@ -5,9 +5,10 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: people
+  - block: contact
     content:
       title: Meet the Team
+      text: |-
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
@@ -33,7 +34,7 @@ sections:
         The project has four core objectives.
 
     
----
+
      
        
         

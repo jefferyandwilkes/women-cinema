@@ -15,8 +15,18 @@ sections:
       text: |
        
         
-        <p style="font-weight:300;"><a href="https://cinetecadibologna.it/">The Cineteca di Bologna</a> is one of Europe’s leading film institutions. Founded in the 1960s as an arm of the municipality of Bologna’s cinema commission, the Cineteca today is comprised of cinemas, archives, a library, film laboratories, publishing activities, and an annual film festival (<a href="https://festival.ilcinemaritrovato.it/">Il cinema Ritrovato</a>). Since it moved to its present premises in 2000, it has become a miniature city of cinema, one of the most innovative and prestigious centres for the preservation, study and promotion of film heritage. Under its director, Gianluca Farinelli, the Cineteca has built an enviable international reputation while developing its local links. It was a partner on Stephen Gundle’s earlier research project on ‘Producers and Production Practices in the History of Italian Cinema, 1949-1976’.</p>
-        
+        <p>The Audience Project seminar talk</p>
+        <p>Doctor Silvia Dibeltulo and professor Daniela Treveri Gennari will give a talk titled “Doing oral history beyond audiences.” The talk will focus on the oral history work carried out during the Women in Italian Film Production project. The event will be hosted during the TAP (The Audience Project) seminar series at Oxford Brookes University, and it will take place on February 14th 2025 from 12 to 1pm.</p>
+<p>A Zoom link will be provided soon.</p>
+  <p>Presentation of the project and photo exhibition at the Cinema Ritrovato Festival 2025/p>
+        <p>The Women in Italian Film Industry Project team will present the project at the 39th edition of the Cinema Ritrovato festival (June 21st-29th 2025) in Bologna. On the same occasion, a photographic exhibition about women’s work in the Italian cinema, curated by the team, will be displayed. The photos will be sourced from different Italian archives, as well as private collections.</p>
+  <p>Oxford Brookes University's Creative Industries Festival 2025</p>
+        <p>On February 12th 2025 the team will present the project at Oxford Brookes University during the Creative Industries Festival. The event will feature casting director Lilia Hartmann Trapani as a guest speaker. <br/>
+Location: Executive Suite, John Henry Brookes Building <br/>
+Time: 4pm 
+</p>
+
+
         
 
 --- 

@@ -5,17 +5,11 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: contact
     content:
-      title: |
-        Partners 
-        
-      image:
-        filename: partners.jpg
-      text: |
-       
-        
-        <p>The Audience Project seminar talk</p>
+      title: 
+      text: |-
+     <p>The Audience Project seminar talk</p>
         <p>Doctor Silvia Dibeltulo and professor Daniela Treveri Gennari will give a talk titled “Doing oral history beyond audiences.” The talk will focus on the oral history work carried out during the Women in Italian Film Production project. The event will be hosted during the TAP (The Audience Project) seminar series at Oxford Brookes University, and it will take place on February 14th 2025 from 12 to 1pm.</p>
         <p>A Zoom link will be provided soon.</p>
         <p>Presentation of the project and photo exhibition at the Cinema Ritrovato Festival 2025/p>
@@ -25,6 +19,10 @@ sections:
 Location: Executive Suite, John Henry Brookes Building <br/>
 Time: 4pm
         </p>
+     
+       
+        
+      
         
         
 

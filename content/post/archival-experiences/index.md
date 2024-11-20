@@ -1,5 +1,5 @@
 ---
-title: Archival experiences Cecilia Mangini and Mara Blasetti
+title: Archival experiences: Cecilia Mangini and Mara Blasetti
 date: 
 ---
 

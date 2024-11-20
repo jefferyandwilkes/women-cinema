@@ -10,7 +10,7 @@ sections:
       title: 
       text: |-
         **Upcoming Events**
-        <br/>
+        <br/><br/>
         **The Audience Project seminar talk**
         <br/>
         Doctor Silvia Dibeltulo and professor Daniela Treveri Gennari will give a talk titled “Doing oral history beyond audiences.” The talk will focus on the oral history work 

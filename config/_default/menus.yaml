@@ -49,8 +49,16 @@ main:
     url: documentaries
     weight: 30   
   - name: Events
+    identifier: team
+    weight: 50  
+  - name: Past Events
+    parent: Events
     url: event
-    weight: 50   
+    weight: 20  
+  - name: Upcoming Events
+    parent: Events
+    url: upcoming-events
+    weight: 10   
   - name: Stories
     url: post
     weight: 60      

@@ -9,7 +9,7 @@ sections:
     content:
       title: 
       text: |-
-        **Upcoming Eventsk**
+        **Upcoming Events**
         <br/>
         **The Audience Project seminar talk**
         <br/>

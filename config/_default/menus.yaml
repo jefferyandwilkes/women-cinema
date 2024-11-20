@@ -52,11 +52,11 @@ main:
     identifier: events
     weight: 50  
   - name: Past Events
-    parent: Events
+    parent: events
     url: event
     weight: 20  
   - name: Upcoming Events
-    parent: Events
+    parent: events
     url: upcoming-events
     weight: 10   
   - name: Stories

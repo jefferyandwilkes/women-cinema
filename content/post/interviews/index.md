@@ -1,11 +1,11 @@
 ---
-title: Interviewing Women In Italian Cinema
+title: Interviewing Women in Italian Cinema
 date: 
 image:
   focal_point: 'top'
 ---
 
-I’ve been a journalist for twenty-five  years. In my career I’ve interviewed many film professionals, mostly directors, but the **Women in Italian Film Production** project was such a different experience for me.For the project, with my colleagues Daniela Treveri Gennari and Silvia Dibeltulo, I conducted thirty-eight interviews with female film professionals working in the Italian film industry.  :
+I’ve been a journalist for twenty-five  years. In my career I’ve interviewed many film professionals, mostly directors, but the Women in Italian Film Production project was such a different experience for me.For the project, with my colleagues Daniela Treveri Gennari and Silvia Dibeltulo, I conducted thirty-eight interviews with female film professionals working in the Italian film industry.  
 
 <!--more-->
 
@@ -21,6 +21,6 @@ I was struck by how often the following topics recur in their testimonies:
 
 The photo chosen for this blog post was taken during one of the interviews. It is a motto adopted by one of our interviewees that means "Ignore your responsibilities. Pretend to be dead." It is a way out that women should practice more, as animals do, instead of always being ready and present.
 
-<a href="https://womeninitaliancinema.org/author/barbara-corsi/">Barbera Corsi</a>
+<a href="https://womeninitaliancinema.org/author/barbara-corsi/">Barbara Corsi</a>
 
 

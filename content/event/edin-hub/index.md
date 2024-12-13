@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: 11/11/2024
+summary: 21/11/2024
 abstract: 'The Women in Italian Film Production project was presented by the team at the EDIN Hub event on November 21st, 2024. The event was part of a series organised by Oxford Brookes Univeristy’s Equality Diversity and Inclusion Research Network.
 On this occasion, Dr Silvia Dibeltulo and professor Daniela Treveri Gennari discussed aspects of the research that highlight the challenges and complexities inherent in a project that adopts a feminist historiographical approach. After providing an overview of the project, Silvia and Daniela reflected on methodological questions in relation to the process of doing feminist film history through the archive and through oral history. They focussed on the example of collaborative work to explore how this issue is featured across archival documents and women’s stories. 
 '

@@ -1,5 +1,5 @@
 ---
-title: Past Events New
+title: Future Events
 
 # Listing view
 view: compact

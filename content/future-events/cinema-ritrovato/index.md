@@ -1,5 +1,5 @@
 ---
-title: "Presentation of the project and photo exhibition at the Cinema Ritrovato Festival 2025" 
+title: "Women In Film Production: Methods, Comparisons, Resources" 
 
 event: 
 event_url: 
@@ -13,7 +13,37 @@ address:
   country: 
 
 summary: 2023
-abstract: 'The Women in Italian Film Industry Project team will present the project at the 39th edition of the Cinema Ritrovato festival (June 21st-29th 2025) in Bologna. On the same occasion, a photographic exhibition about women’s work in the Italian cinema, curated by the team, will be displayed. The photos will be sourced from different Italian archives, as well as private collections.'  
+abstract: 'The team organised an opening workshop for our AHRC-funded project ‘Women in Italian Film Production - Industrial Histories and Gendered labour, 1945-85’ (University of Warwick/Oxford Brookes University) at Warwick University in June 2023. The workshop allowed the team and participating experts to reflect on the role of women within the cinema industry, while exploring specific methods and resources in the field of feminist film history. The aim of the workshop was to bring together researchers from different backgrounds in order to share experiences, ideas, and methodologies, while also developing new paths for future research.     
+<br/><br/>
+**Programme**
+<br/>
+<ul><li>Introduction - Stephen Gundle, Daniela Treveri Gennari, Silvia Dibeltulo </li>
+<li>Shelley Cobb (University of Southampton) and Linda Ruth Williams (University of Exeter)
+<br/><i>Oral histories of women filmmakers - questions we wished we had asked and how we found answers to them anyway</i></li>
+<li>Melanie Bell (University of Leeds) <br/><i>Towards a feminist methodology of womens gendered labour in film production</i></li>
+<li>Maria Janssen (University of Örebro)<br/> <i>Analysing experiences through interviews - methods and theoretical underpinnings</i></li>
+<li>Catherine O’Rawe (University of Bristol)<br/> <i>Studiotec – gender and the European film studio</i></li>
+<li>Dalila Missero (University of Lancaster)<br/> <i>Women, film and archives - an interstitial historiography?</i></li>
+<li>Stephen Gundle <br/> <i>Perspectives from 1972 on women in the Italian film industry</i></li>
+<li>Clara Giannini (Oxford Brookes University) <br/> <i>The Cecilia Mangini archive, Bologna</i></li>
+<li>Barbara Corsi (University of Warwick) Silvia D’Amico, film producer   <br/>
+<i>Screening of documentary ‘Italian Cinema and Its Great Producers’ (by Barbara Corsi)</i> </li></ul> <br/>
+
+**Speakers**
+ <br/>
+<ul>
+<li>Melanie Bell, Professor in Film History, University of Leeds</li> 
+<li>Shelley Cobb, Professor of Film and Feminist Media Studies, University of Southampton</li>
+<li>Barbara Corsi, AHRC project Research Fellow, University of Warwick</li>
+<li>Silvia Dibeltulo, Senior Lecturer in Communication, Media and Culture, Oxford Brookes University</li> 
+<li>Clara Giannini, AHRC project Research Fellow, Oxford Brookes University</li>
+<li>Stephen Gundle, Professor of Film and Television Studies, University of Warwick</li>
+<li>Maria Jannsen, Professor of Gender Studies and Associate Professor of Political Science, Örebro University, Sweden</li> 
+<li>Catherine O’Rawe, Professor of Italian Film and Culture, University of Bristol</li> 
+<li>Dalila Missero, Lecturer in Film Studies, University of Lancaster</li>
+<li>Daniela Treveri Gennari, Professor of Cinema Studies, Oxford Brookes University</li>   
+<li>Linda Ruth Williams, Professor of Film Studies, University of Exeter</li>
+</ul>'  
 
 
 # Talk start and end times.
@@ -54,3 +84,4 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+

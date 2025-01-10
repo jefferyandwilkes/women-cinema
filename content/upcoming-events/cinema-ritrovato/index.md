@@ -44,6 +44,8 @@ abstract: 'The team organised an opening workshop for our AHRC-funded project â€
 <li>Daniela Treveri Gennari, Professor of Cinema Studies, Oxford Brookes University</li>   
 <li>Linda Ruth Williams, Professor of Film Studies, University of Exeter</li>
 </ul>'  
+
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: ''

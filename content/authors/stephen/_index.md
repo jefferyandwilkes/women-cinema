@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Stephen Gundle test
+title: Stephen Gundle 
 
 # Full Name (for SEO)
 first_name: Stephen

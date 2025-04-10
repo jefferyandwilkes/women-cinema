@@ -40,7 +40,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Co-Investigators
+  - Investigators
 ---
 
 Daniela Treveri Gennari is Professor of Cinema Studies at Oxford Brookes University with an interest in audiences, popular cinema, film exhibition and programming. Daniela has been leading the AHRC-funded projects “Italian Cinema Audiences” and “European Cinema Audiences: Entangled Histories and Shared Memories”. Her publications include, among others, the article 'Defining a typology of cinemas across 1950s Europe' (with Lies Van de Vijver and Pierluigi Ercole) <i>Participations</i>, Vol.18, Issue 2, November 2021; the chapter "Five Italian Cities: Comparative Analysis of Cinema Types, Film Circulation and Relative Popularity in the Mid-1950s" (with John Sedgwick), in <i>Towards a Comparative Economic History of Cinema, 1930-1970 </i> (2022);  and the the co-authored monograph <i>Italian Cinema Audiences: Histories and Memories of Cinema-going in Post-war Italy </i> (Bloomsbury, 2021)

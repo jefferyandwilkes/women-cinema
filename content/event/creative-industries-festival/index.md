@@ -19,8 +19,8 @@ abstract: 'On February 12th 2025 the team presented the project at Oxford Brooke
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 'February 2025'
-date_end: ''
+date: '2024-11-21'
+date_end: '2024-11-21'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

@@ -19,12 +19,12 @@ abstract: 'On February 14th 2025, Silvia Dibeltulo and Daniela Treveri Gennari g
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: ''
+date: 'February 2025'
 date_end: ''
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: ''
+publishDate: 'February 2025'
 
 authors: []
 tags: []

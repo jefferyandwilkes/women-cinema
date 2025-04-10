@@ -10,7 +10,7 @@ last_name: Sarti
 superuser: true
 
 # Role/position
-role: Researcher
+role: 
 
 # Organizations/Affiliations
 organizations:
@@ -40,7 +40,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoctoral Researchers
+  - Trainee
 ---
 
 Emma Sarti holds a Bachelor’s degree in Intercultural and Linguistic Mediation at the University of Bologna, where she studied Gender Studies alongside Interpreting and Translation. She pursued a Master’s degree in Translation at the University of Turin, with a focus on audiovisual translation. As part of her Erasmus Traineeship at Oxford Brookes University, she contributed to several aspects of the project, including translating material and video subtitling. This experience allowed her to combine her expertise in translation with her competence in Gender Studies and the representation of women in the media.

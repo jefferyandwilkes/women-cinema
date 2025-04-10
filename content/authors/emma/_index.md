@@ -43,5 +43,5 @@ user_groups:
   - Postdoctoral Researchers
 ---
 
-Clara Giannini graduated at Sapienza University of Rome with a thesis on Ponti-De Laurentiis Cinematografica company. She conducted her PhD research at Oxford Brookes University on the history of Italian film industry, concentrating on small and medium film production companies between 1945 and 1959. Her publications include essays on Mara Blasetti <i>(‘Mi farà piacere lavorare con un’amica che sa fare il cinema!!! Dal set alla produzione: il lavoro organizzativo di Mara Blasetti’)</i> and <i>Luigi Rovere’s P.D.C. (Dalla produzione alla distribuzione: Luigi Rovere e la P.D.C. all’interno dell’industria cinematografica italiana degli anni Cinquanta)  </i>
+Emma Sarti holds a Bachelor’s degree in Intercultural and Linguistic Mediation at the University of Bologna, where she studied Gender Studies alongside Interpreting and Translation. She pursued a Master’s degree in Translation at the University of Turin, with a focus on audiovisual translation. As part of her Erasmus Traineeship at Oxford Brookes University, she contributed to several aspects of the project, including translating material and video subtitling. This experience allowed her to combine her expertise in translation with her competence in Gender Studies and the representation of women in the media.
 

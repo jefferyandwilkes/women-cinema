@@ -18,8 +18,8 @@ On this occasion, Dr Silvia Dibeltulo and professor Daniela Treveri Gennari disc
 '
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 'November 2024'
-date_end: 'November 2024'
+date: '11/2024'
+date_end: '11/2024'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

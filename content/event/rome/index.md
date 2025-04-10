@@ -29,8 +29,8 @@ Treveri Gennari’s paper explored the role of oral history in the investigation
 For further details see the <a href="https://aur.edu/sites/default/files/JICMS%202024%20Conference%20Abstracts.pdf">conference abstract.</a>'
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 'June 2024'
-date_end: ''
+date: '2024-11-21'
+date_end: '2024-11-21'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: 2023
+summary: June 2023
 abstract: 'The team organised an opening workshop for our AHRC-funded project ‘Women in Italian Film Production - Industrial Histories and Gendered labour, 1945-85’ (University of Warwick/Oxford Brookes University) at Warwick University in June 2023. The workshop allowed the team and participating experts to reflect on the role of women within the cinema industry, while exploring specific methods and resources in the field of feminist film history. The aim of the workshop was to bring together researchers from different backgrounds in order to share experiences, ideas, and methodologies, while also developing new paths for future research.     
 <br/><br/>
 **Programme**
@@ -48,12 +48,12 @@ abstract: 'The team organised an opening workshop for our AHRC-funded project �
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: ''
-date_end: ''
+date: 'June 2023'
+date_end: 'June 2023'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: ''
+publishDate: 'June 2023'
 
 authors: []
 tags: []

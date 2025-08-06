@@ -24,7 +24,7 @@ date_end: '2025-06-29'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 'July 2024'
+publishDate: 'July 2, 2024'
 
 authors: []
 tags: []

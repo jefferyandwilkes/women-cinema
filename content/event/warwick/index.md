@@ -48,7 +48,7 @@ abstract: 'The team organised an opening workshop for our AHRC-funded project â€
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-11-21'
+date: '2023-11-21'
 date_end: '2024-11-21'
 all_day: false
 

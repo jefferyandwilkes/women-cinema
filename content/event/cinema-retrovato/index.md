@@ -19,8 +19,8 @@ abstract: 'The Women in Italian Film Industry Project team presented the project
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 'July 2, 2024'
-date_end: 'July 2, 2024'
+date: '21-06-2025'
+date_end: '29-06-2025'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

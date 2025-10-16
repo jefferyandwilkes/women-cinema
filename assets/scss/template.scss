@@ -1,28 +1,26 @@
-css
-Copy
-/* Container for each event: flex layout with no wrapping */
+/* Container for each event: flex layout with fixed min height */
 .media.stream-item.view-compact {
   display: flex;
   align-items: flex-start;
-  flex-wrap: nowrap; /* Prevent wrapping that causes bunching */
-  margin-bottom: 2rem; /* Consistent vertical spacing */
-  border-bottom: 1px solid #ddd; /* Optional separator */
+  flex-wrap: nowrap;
+  margin-bottom: 2rem; /* consistent vertical spacing */
+  border-bottom: 1px solid #ddd;
   padding-bottom: 1rem;
-  min-height: 130px; /* Ensure minimum height to accommodate taller content */
+  min-height: 140px; /* ensures consistent height regardless of content */
 }
 
-/* Remove bottom border and margin on last event */
+/* Remove border and margin on last event */
 .media.stream-item.view-compact:last-child {
   border-bottom: none;
   margin-bottom: 0;
   padding-bottom: 0;
 }
 
-/* Text container: allow it to grow and prevent shrinking */
+/* Text container: flex grow and reset margin */
 .media-body {
   flex-grow: 1;
   flex-shrink: 0;
-  margin: 0; /* Reset margins */
+  margin: 0;
 }
 
 /* Image container: fixed size and margin */
@@ -35,13 +33,13 @@ Copy
 
 /* Uniform image size */
 .media.stream-item img {
-  height: 100px; /* Fixed height */
-  width: 150px;  /* Fixed width */
+  height: 100px;
+  width: 150px;
   object-fit: cover;
   display: block;
 }
 
-/* Consistent margins for text elements */
+/* Consistent margins and line height for text elements */
 .section-subheading.article-title,
 .article-style,
 .stream-meta.article-metadata {
@@ -51,7 +49,6 @@ Copy
 }
 
 /* Fix hidden year column to avoid layout collapse */
-/* Reserve space to prevent content shifting */
 .col-lg-2 {
   visibility: hidden;
   width: 80px;
@@ -60,7 +57,7 @@ Copy
   margin: 0;
 }
 
-/* Optional: prevent event titles from wrapping too much */
+/* Prevent event titles from wrapping excessively */
 .section-subheading.article-title a {
   word-break: break-word;
   white-space: normal;

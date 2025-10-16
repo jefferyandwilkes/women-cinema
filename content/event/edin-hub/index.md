@@ -18,7 +18,7 @@ On this occasion, Dr Silvia Dibeltulo and professor Daniela Treveri Gennari disc
 '
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2001-11-21'
+date: '2024-11-21'
 date_end: '2024-11-21'
 all_day: false
 

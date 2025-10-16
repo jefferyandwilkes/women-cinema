@@ -1,16 +1,21 @@
+/* Use class instead of duplicate IDs for rows */
+.row.talk_list {
+  margin-bottom: 2rem;
+}
+
 /* Container for each event: flex layout with fixed min height */
 .media.stream-item.view-compact {
   display: flex;
   align-items: flex-start;
   flex-wrap: nowrap;
   margin-bottom: 2rem; /* consistent vertical spacing */
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #ddd; /* separator line */
   padding-bottom: 1rem;
-  min-height: 140px; /* ensures consistent height regardless of content */
+  min-height: 140px; /* ensures consistent height */
 }
 
-/* Remove border and margin on last event */
-.media.stream-item.view-compact:last-child {
+/* Remove border and margin only on the very last event on the page */
+.media.stream-item.view-compact:last-of-type {
   border-bottom: none;
   margin-bottom: 0;
   padding-bottom: 0;
@@ -62,7 +67,6 @@
   word-break: break-word;
   white-space: normal;
 }
-
 
 // Make page header alignment consistent with widget page header alignment
 .universal-wrapper h1 {

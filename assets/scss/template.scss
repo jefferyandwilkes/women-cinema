@@ -1,3 +1,51 @@
+/* Fix duplicate IDs by using class instead */
+.row.talk_list {
+  margin-bottom: 2rem;
+}
+
+/* Consistent vertical spacing between events */
+.media.stream-item.view-compact {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 1rem;
+}
+
+.media.stream-item.view-compact:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Uniform image height and spacing */
+.media.stream-item img {
+  height: 100px;
+  width: 150px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+/* Consistent margin between text and image */
+.ml-3 {
+  margin-left: 15px !important;
+}
+
+/* Adjust margins in text blocks */
+.section-subheading.article-title,
+.article-style,
+.stream-meta.article-metadata {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+
+/* Optional: Hide year column properly and avoid layout collapse */
+.col-lg-2 {
+  display: none; /* or remove this column in HTML if not needed */
+}
+
+
+
 // Make page header alignment consistent with widget page header alignment
 .universal-wrapper h1 {
   text-align: center;

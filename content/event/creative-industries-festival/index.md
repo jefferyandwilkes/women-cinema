@@ -13,17 +13,14 @@ address:
   country: 
 
 summary: February 2025
-abstract: 'On February 12th 2025 the team presented the project at Oxford Brookes University during the Creative Industries Festival. The event featured a conversation with casting director Lilia Hartmann Trapani as a guest speaker. You can view a recording of the event below.
-<br/><br/>
-{{< video src="rome.mp4" controls="yes" >}}
-<br/>'    
+abstract: 'On February 12th 2025 the team presented the project at Oxford Brookes University during the Creative Industries Festival. The event featured a conversation with casting director Lilia Hartmann Trapani as a guest speaker. 
 
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-11-21'
-date_end: '2024-11-21'
+date: '2025-02-12'
+date_end: '2025-02-12'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

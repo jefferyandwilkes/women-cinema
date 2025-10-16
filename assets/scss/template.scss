@@ -68,6 +68,14 @@
   white-space: normal;
 }
 
+
+/* Remove bottom border from all event items */
+.media.stream-item.view-compact {
+  border-bottom: none !important;
+  margin-bottom: 2rem; /* keep consistent spacing without separators */
+  padding-bottom: 0;
+}
+
 // Make page header alignment consistent with widget page header alignment
 .universal-wrapper h1 {
   text-align: center;

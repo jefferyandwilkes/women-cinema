@@ -3,15 +3,15 @@
   margin-bottom: 2rem;
 }
 
-/* Container for each event: flex layout with fixed min height */
+/* Container for each event: flex layout with consistent spacing */
 .media.stream-item.view-compact {
   display: flex;
   align-items: flex-start;
   flex-wrap: nowrap;
-  margin-bottom: 2rem; /* consistent vertical spacing */
-  border-bottom: 1px solid #ddd; /* separator line */
-  padding-bottom: 1rem;
-  min-height: 140px; /* ensures consistent height */
+  margin-bottom: 1.5rem; /* reduced vertical spacing for tighter layout */
+  padding-bottom: 0.75rem; /* slightly reduced padding */
+  min-height: 130px; /* uniform minimum height */
+  border-bottom: none !important; /* remove separators */
 }
 
 /* Remove border and margin only on the very last event on the page */
@@ -66,14 +66,6 @@
 .section-subheading.article-title a {
   word-break: break-word;
   white-space: normal;
-}
-
-
-/* Remove bottom border from all event items */
-.media.stream-item.view-compact {
-  border-bottom: none !important;
-  margin-bottom: 2rem; /* keep consistent spacing without separators */
-  padding-bottom: 0;
 }
 
 // Make page header alignment consistent with widget page header alignment

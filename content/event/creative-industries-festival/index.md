@@ -13,7 +13,9 @@ address:
   country: 
 
 summary: February 2025
-abstract: 'On February 12th 2025 the team presented the project at Oxford Brookes University during the Creative Industries Festival. The event featured a conversation with casting director Lilia Hartmann Trapani as a guest speaker.' 
+abstract: 'On February 12th 2025 the team presented the project at Oxford Brookes University during the Creative Industries Festival. The event featured a conversation with casting director Lilia Hartmann Trapani as a guest speaker. You can view that conversation below.
+
+{{< video src="https://www.youtube.com/watch?v=lEbDadiIV60" controls="yes" >}}' 
 
 
 

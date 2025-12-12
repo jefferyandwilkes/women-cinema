@@ -24,14 +24,14 @@ sections:
     content:
       title: Alice Micci
       text: |-
-       Nata a Roma l'1 marzo 1998, Alice Micci è una VFX editor. Il padre è militare e la madre parrucchiera.
+        Nata a Roma l'1 marzo 1998, Alice Micci è una VFX editor. Il padre è militare e la madre parrucchiera.
 Lavora nel mondo del cinema sin dal liceo, facendo la comparsa e la data manager per alcuni cortometraggi. Ha conseguito un master in post-produzione presso la Scuola di Cinema Sentieri Selvaggi (2017-2020).
-Ha lavorato come assistente al montaggio, come data manager ed è attualmente una visual effect editor presso una società di effetti visivi.
+        Ha lavorato come assistente al montaggio, come data manager ed è attualmente una visual effect editor presso una società di effetti visivi.
 
-       Filmografia
-       Film
-       2020 – Sportin' life (Abel Ferrara) - assistente al montaggio
-       2022 – Il sesso degli angeli (Leonardo Pieraccioni) - dailies operator e data manager
+        Filmografia
+        Film
+        2020 – Sportin' life (Abel Ferrara) - assistente al montaggio
+        2022 – Il sesso degli angeli (Leonardo Pieraccioni) - dailies operator e data manager
 2022 – Una boccata d'aria (Alessio Lauria) - dailies operator
 2022 – The hanging sun - Sole di mezzanotte (Francesco Carrozzini) - data manager
 2022 – I viaggiatori (Ludovico Di Martino) - data manager e editore on-line

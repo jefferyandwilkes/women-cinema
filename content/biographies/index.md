@@ -1,5 +1,5 @@
 ---
-title: Advisory
+title: Biographies
 date: 2022-10-24
 
 type: landing
@@ -8,20 +8,57 @@ sections:
   - block: hero
     content:
       title: |
-        Advisory Board
+        Biographies
         
       image:
         filename: advisory-board.jpg
       text: |
         <br>
         
-        Our project is supported by an advisory board that includes academics and professionals from the film and creative industries. 
+         Here you can find a list of the women we have interviewed — women who have left their mark on Italian and international cinema. Their biographies, written with their support, tell the stories of professional and creative journeys that have helped transform the audiovisual industry. The content is currently available only in Italian, but an English version will follow soon.
+
+         Qui potete trovare un elenco delle donne che abbiamo intervistato, donne che hanno lasciato il segno nel cinema italiano ed internazionale. Le loro biografie, scritte con il loro supporto, raccontano percorsi professionali e creativi che hanno contribuito a trasformare l’industria audiovisiva.
+Il contenuto è per ora disponibile solo in italiano, ma una versione in inglese seguirà presto. 
 
   - block: contact
     content:
-      title: Melanie Bell
+      title: Alice Micci
       text: |-
-        <a href="https://ahc.leeds.ac.uk/media/staff/191/professor-melanie-bell">Melanie Bell</a>, Professor in Film History, University of Leeds. In 2014 she won a major AHRC award to research the history of women in the British Film and Television Industries. This project combined statistical analysis with oral history interviewing to examine women's economic and creative contribution to cultural production in British film and television. Her publications include the book <i>Movie Workers: The Women Who Made British Cinema</i> (University of Illinois Press, 2021).  
+     Nata a Roma l'1 marzo 1998, Alice Micci è una VFX editor. Il padre è militare e la madre parrucchiera.
+Lavora nel mondo del cinema sin dal liceo, facendo la comparsa e la data manager per alcuni cortometraggi. Ha conseguito un master in post-produzione presso la Scuola di Cinema Sentieri Selvaggi (2017-2020).
+Ha lavorato come assistente al montaggio, come data manager ed è attualmente una visual effect editor presso una società di effetti visivi.
+
+Filmografia
+Film
+2020 – Sportin' life (Abel Ferrara) - assistente al montaggio
+2022 – Il sesso degli angeli (Leonardo Pieraccioni) - dailies operator e data manager
+2022 – Una boccata d'aria (Alessio Lauria) - dailies operator
+2022 – The hanging sun - Sole di mezzanotte (Francesco Carrozzini) - data manager
+2022 – I viaggiatori (Ludovico Di Martino) - data manager e editore on-line
+2022 – Era ora (Alessandro Aronadio) - editore on-line
+2022 – Vicini di casa (Paolo Costella) - dailies operator
+2023 – Come pecore in mezzo ai lupi (Lyda Patitucci) - dailies operator
+2023 – Mixed by Erry (Sydney Sibilia) - data manager
+2023 – Rido perché ti amo (Paolo Ruffini) - editore on-line
+2023 – Te l'avevo detto (Ginevra Elkann) - dailies operator e data manager
+2023 – Una gran voglia di vivere (Michela Andreozzi) - visual effects editor
+2023 – Quando (Walter Veltroni) - visual effects editor
+2023 – Il magico mondo di Billie (Francesco Cinquemani) - visual effects editor
+2023 – Una stanza tutta per sé (Matan Yair) - visual effects editor
+2023 – The garbage man (Alfonso Bergamo) - visual effects editor
+2024 – Without blood (Angelina Jolie) - data manager 
+2024 – Pare parecchio Parigi (Leonardo Pieraccioni) - visual effects editor
+2024 – E se mio padre (Sole Tonnini) - visual effects editor
+2024 – Napoli-New York (Gabriele Salvatores) - visual effects editor
+2024 – Amiche mai (Maurizio Nichetti) - visual effects editor
+2024 – Indelebile (Simone Valentini) - visual effects editor
+
+Serie tv
+2021 – Sarah - La ragazza da Avetrana (Christian Letruria) - dailies operator
+2022 – Romulus (Matteo Rovere) - dailies operator, data manager e editore on-line
+2023 – La legge di Lidia Poët (Matteo Rovere, Letizia Lamartire, Pippo Mezzapesa) - dailies operator
+2024 – Dostoevskij (Damiano e Fabio D'Innocenzo) - visual effects editor
+
 
   - block: contact
     content:

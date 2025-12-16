@@ -24,40 +24,7 @@ sections:
     content:
       title: Alice Micci
       text: |-
-        Nata a Roma l'1 marzo 1998, Alice Micci è una VFX editor. Il padre è militare e la madre parrucchiera.
-        Lavora nel mondo del cinema sin dal liceo, facendo la comparsa e la data manager per alcuni cortometraggi. Ha conseguito un master in post-produzione presso la Scuola di        Cinema Sentieri Selvaggi (2017-2020).
-        Ha lavorato come assistente al montaggio, come data manager ed è attualmente una visual effect editor presso una società di effetti visivi.
-  
-        Filmografia
-        Film
-        2020 – Sportin’ life (Abel Ferrara) – assistente al montaggio
-        2022 – Il sesso degli angeli (Leonardo Pieraccioni) – dailies operator e data manager
-        2022 – Una boccata d’aria (Alessio Lauria) – dailies operator
-        2022 – The hanging sun – Sole di mezzanotte (Francesco Carrozzini) – data manager
-        2022 – I viaggiatori (Ludovico Di Martino) – data manager e editore on-line
-        2022 – Era ora (Alessandro Aronadio) – editore on-line
-        2022 – Vicini di casa (Paolo Costella) – dailies operator
-        2023 – Come pecore in mezzo ai lupi (Lyda Patitucci) – dailies operator
-        2023 – Mixed by Erry (Sydney Sibilia) – data manager
-        2023 – Rido perché ti amo (Paolo Ruffini) – editore on-line
-        2023 – Te l’avevo detto (Ginevra Elkann) – dailies operator e data manager
-        2023 – Una gran voglia di vivere (Michela Andreozzi) – visual effects editor
-        2023 – Quando (Walter Veltroni) – visual effects editor
-        2023 – Il magico mondo di Billie (Francesco Cinquemani) – visual effects editor
-        2023 – Una stanza tutta per sé (Matan Yair) – visual effects editor
-        2023 – The garbage man (Alfonso Bergamo) – visual effects editor
-        2024 – Without blood (Angelina Jolie) – data manager
-        2024 – Pare parecchio Parigi (Leonardo Pieraccioni) – visual effects editor
-        2024 – E se mio padre (Sole Tonnini) – visual effects editor
-        2024 – Napoli-New York (Gabriele Salvatores) – visual effects editor
-        2024 – Amiche mai (Maurizio Nichetti) – visual effects editor
-        2024 – Indelebile (Simone Valentini) – visual effects editor
-
-        Serie TV
-        2021 – Sarah – La ragazza da Avetrana (Christian Letruria) – dailies operator
-        2022 – Romulus (Matteo Rovere) – dailies operator, data manager e editore on-line
-        2023 – La legge di Lidia Poët (Matteo Rovere, Letizia Lamartire, Pippo Mezzapesa) – dailies operator
-        2024 – Dostojevskij (Damiano e Fabio D’Innocenzo) – visual effects editor
+       
         
 
 
@@ -65,8 +32,7 @@ sections:
     content:
       title: Mariapia Comand
       text: |-
-        <a href="https://dium.uniud.it/it/dium/persone/docenti-e-ricercatori/mariapia-comand/">Mariapia Comand</a>, Professor of Film Studies, University of Udine. A former editor of <i>Bianco & Nero</i> and associate editor of <i>L’ Avventura</i>, she is principal investigator of the research project ‘Modes, Memories and Cultures of Film Production in Italy, 1949-1976’ which concludes in 2024. Among her publications are <i>L’immagine dialogica: il cinema tra intertestualità e dialogismo</i> (2001); <i>Il sorpasso</i> (2002); <i>Cinema Europeo</i> (with Roy Menarini 2006); <i>Commedia all'italiana</i> (2010); <i>I personaggi dei film</i> (2013); <i>Elsa De’ Giorgi: storia, discorsi e memorie del cinema</i> (2022).
-
+       
   - block: contact
     content:
       title: Caterina D’Amico

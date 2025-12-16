@@ -22,7 +22,9 @@ sections:
 
   - block: contact
     content:
-      title: Alice Micci
+      title: <a href="https://jefferyandwilkes.github.io/women-cinema/biographies/">Alice Micci</a>
+             <a href="https://jefferyandwilkes.github.io/women-cinema/biographies/">Mariapia Comand</a>
+             <a href="https://jefferyandwilkes.github.io/women-cinema/biographies/">Caterina D’Amico</a>
       text: |-
        
         

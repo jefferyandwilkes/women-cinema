@@ -47,8 +47,8 @@ Nata a Roma l'1 marzo 1998, Alice Micci è una VFX editor. Il padre è militare 
 Lavora nel mondo del cinema sin dal liceo, facendo la comparsa e la data manager per alcuni cortometraggi. Ha conseguito un master in post-produzione presso la Scuola di Cinema Sentieri Selvaggi (2017-2020).
 Ha lavorato come assistente al montaggio, come data manager ed è attualmente una visual effect editor presso una società di effetti visivi.
 
-Filmografia
-Film
+<b>Filmografia </b> <br/>
+<b>Film </b> <br/>
 2020 – Sportin' life (Abel Ferrara) - assistente al montaggio <br/>
 2022 – Il sesso degli angeli (Leonardo Pieraccioni) - dailies operator e data manager  <br/>
 2022 – Una boccata d'aria (Alessio Lauria) - dailies operator  <br/>
@@ -72,7 +72,7 @@ Film
 2024 – Amiche mai (Maurizio Nichetti) - visual effects editor -  <br/>
 2024 – Indelebile (Simone Valentini) - visual effects editor -  <br/>
 
-Serie tv
+<b>Serie tv </b> <br/>
 2021 – Sarah - La ragazza da Avetrana (Christian Letruria) - dailies operator  <br/>
 2022 – Romulus (Matteo Rovere) - dailies operator, data manager e editore on-line  <br/>
 2023 – La legge di Lidia Poët (Matteo Rovere, Letizia Lamartire, Pippo Mezzapesa) - dailies operator  <br/>

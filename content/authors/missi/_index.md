@@ -49,32 +49,32 @@ Ha lavorato come assistente al montaggio, come data manager ed è attualmente un
 
 Filmografia
 Film
-2020 – Sportin' life (Abel Ferrara) - assistente al montaggio
-2022 – Il sesso degli angeli (Leonardo Pieraccioni) - dailies operator e data manager
-2022 – Una boccata d'aria (Alessio Lauria) - dailies operator
-2022 – The hanging sun - Sole di mezzanotte (Francesco Carrozzini) - data manager
-2022 – I viaggiatori (Ludovico Di Martino) - data manager e editore on-line
-2022 – Era ora (Alessandro Aronadio) - editore on-line
-2022 – Vicini di casa (Paolo Costella) - dailies operator
-2023 – Come pecore in mezzo ai lupi (Lyda Patitucci) - dailies operator
-2023 – Mixed by Erry (Sydney Sibilia) - data manager
-2023 – Rido perché ti amo (Paolo Ruffini) - editore on-line
-2023 – Te l'avevo detto (Ginevra Elkann) - dailies operator e data manager
-2023 – Una gran voglia di vivere (Michela Andreozzi) - visual effects editor
-2023 – Quando (Walter Veltroni) - visual effects editor
-2023 – Il magico mondo di Billie (Francesco Cinquemani) - visual effects editor
-2023 – Una stanza tutta per sé (Matan Yair) - visual effects editor
-2023 – The garbage man (Alfonso Bergamo) - visual effects editor
-2024 – Without blood (Angelina Jolie) - data manager 
-2024 – Pare parecchio Parigi (Leonardo Pieraccioni) - visual effects editor
-2024 – E se mio padre (Sole Tonnini) - visual effects editor
-2024 – Napoli-New York (Gabriele Salvatores) - visual effects editor
-2024 – Amiche mai (Maurizio Nichetti) - visual effects editor
-2024 – Indelebile (Simone Valentini) - visual effects editor
+2020 – Sportin' life (Abel Ferrara) - assistente al montaggio <br/>
+2022 – Il sesso degli angeli (Leonardo Pieraccioni) - dailies operator e data manager  <br/>
+2022 – Una boccata d'aria (Alessio Lauria) - dailies operator  <br/>
+2022 – The hanging sun - Sole di mezzanotte (Francesco Carrozzini) - data manager  <br/>
+2022 – I viaggiatori (Ludovico Di Martino) - data manager e editore on-line  <br/>
+2022 – Era ora (Alessandro Aronadio) - editore on-line  <br/>
+2022 – Vicini di casa (Paolo Costella) - dailies operator  <br/>
+2023 – Come pecore in mezzo ai lupi (Lyda Patitucci) - dailies operator  <br/>
+2023 – Mixed by Erry (Sydney Sibilia) - data manager  <br/>
+2023 – Rido perché ti amo (Paolo Ruffini) - editore on-line  <br/>
+2023 – Te l'avevo detto (Ginevra Elkann) - dailies operator e data manager  <br/>
+2023 – Una gran voglia di vivere (Michela Andreozzi) - visual effects editor  <br/>
+2023 – Quando (Walter Veltroni) - visual effects editor  <br/>
+2023 – Il magico mondo di Billie (Francesco Cinquemani) - visual effects editor  <br/>
+2023 – Una stanza tutta per sé (Matan Yair) - visual effects editor  <br/>
+2023 – The garbage man (Alfonso Bergamo) - visual effects editor  <br/>
+2024 – Without blood (Angelina Jolie) - data manager   <br/>
+2024 – Pare parecchio Parigi (Leonardo Pieraccioni) - visual effects editor  <br/>
+2024 – E se mio padre (Sole Tonnini) - visual effects editor -  <br/>
+2024 – Napoli-New York (Gabriele Salvatores) - visual effects editor -  <br/>
+2024 – Amiche mai (Maurizio Nichetti) - visual effects editor -  <br/>
+2024 – Indelebile (Simone Valentini) - visual effects editor -  <br/>
 
 Serie tv
-2021 – Sarah - La ragazza da Avetrana (Christian Letruria) - dailies operator
-2022 – Romulus (Matteo Rovere) - dailies operator, data manager e editore on-line
-2023 – La legge di Lidia Poët (Matteo Rovere, Letizia Lamartire, Pippo Mezzapesa) - dailies operator
-2024 – Dostoevskij (Damiano e Fabio D'Innocenzo) - visual effects editor
+2021 – Sarah - La ragazza da Avetrana (Christian Letruria) - dailies operator  <br/>
+2022 – Romulus (Matteo Rovere) - dailies operator, data manager e editore on-line  <br/>
+2023 – La legge di Lidia Poët (Matteo Rovere, Letizia Lamartire, Pippo Mezzapesa) - dailies operator  <br/>
+2024 – Dostoevskij (Damiano e Fabio D'Innocenzo) - visual effects editor  <br/>
 

@@ -51,7 +51,7 @@ Contemporaneamente si dedica al doppiaggio, attività che abbandona al termine d
 
 Di ritorno dalla Francia, nel 1966 Andreina viene assunta come segretaria presso la casa di produzione Clesi Cinematografica, dove ha lavorato per circa 34 anni. Tra  i film prodotti dalla  Clesi Cinematografica.: Sequestro di Persona, Addio Fratello Crudele, Le farò da padre, Malizia,  Marcia Trionfale, Al di la del bene e del male, Piso Pisello, Salto nel vuoto, L’’ingorgo, L’Inchiesta,, e per la televisione  Cristoforo Colombo)
 
- Un po' per volta il suo ruolo è cambiato: Ha curato i rapporti con i Laboratori, con i set e con le Istituzioni (Proprietà Letteraria, Ministero Turismo e Spettacolo, Ufficio italiano Cambi, Ministero Commercio Estero) con la Siae e la BNL-SACC Sezione Autonoma Credito Cinematografico:
+Un po' per volta il suo ruolo è cambiato: Ha curato i rapporti con i Laboratori, con i set e con le Istituzioni (Proprietà Letteraria, Ministero Turismo e Spettacolo, Ufficio italiano Cambi, Ministero Commercio Estero) con la Siae e la BNL-SACC Sezione Autonoma Credito Cinematografico:
 
 Ha cominciato inoltre ad interessarsi dei contratti di distribuzione dei film all’estero, inizialmente tramite Società esterne: Estero Film, Euro International Film, Titanus Film, Rizzoli Film, Intra film, Sacis,
  
@@ -60,7 +60,7 @@ Dal 1975 è diventata responsabile dell’Ufficio Estero i seno alla  Clesi , cu
 Al termine del suo lavoro presso la Clesi Cinematografica ha lavorato in qualità di Consulente con   Intra Movies, e con la regista Liliana Cavani 
 
 
-<b>Filmografia – attrice</b>
+<b>Filmografia – attrice</b><br/>
 Domani è troppo tardi (Moguy, 1949 - 1950)<br/>
 Prima Comunione (Blasetti, 1950)<br/>
 Salvate mia figlia (Corbucci, 1952)

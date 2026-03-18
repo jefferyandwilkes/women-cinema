@@ -1,35 +1,27 @@
 ---
 # Display name
-title: Alice Missi
+title: Eleonora Savignano
 
 # Full Name (for SEO)
-first_name: Alice
-last_name: Missi
+first_name: Eleonora
+last_name: Savignano
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role:
+role: VFX Producer
 
 # Organizations/Affiliations
 organizations:
-  - name: 
-    url: ''
+- name:
+  url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -38,43 +30,36 @@ email: ''
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 
+-
 ---
 
-Nata a Roma l'1 marzo 1998, Alice Micci è una VFX editor. Il padre è militare e la madre parrucchiera.
-Lavora nel mondo del cinema sin dal liceo, facendo la comparsa e la data manager per alcuni cortometraggi. Ha conseguito un master in post-produzione presso la Scuola di Cinema Sentieri Selvaggi (2017-2020).
-Ha lavorato come assistente al montaggio, come data manager ed è attualmente una visual effect editor presso una società di effetti visivi.
+Eleonora Savignano è una producer per gli effetti speciali (VFX Producer).
 
-<b>Filmografia </b> <br/>
-<b>Film </b> <br/>
-2020 – Sportin' life (Abel Ferrara) - assistente al montaggio <br/>
-2022 – Il sesso degli angeli (Leonardo Pieraccioni) - dailies operator e data manager  <br/>
-2022 – Una boccata d'aria (Alessio Lauria) - dailies operator  <br/>
-2022 – The hanging sun - Sole di mezzanotte (Francesco Carrozzini) - data manager  <br/>
-2022 – I viaggiatori (Ludovico Di Martino) - data manager e editore on-line  <br/>
-2022 – Era ora (Alessandro Aronadio) - editore on-line  <br/>
-2022 – Vicini di casa (Paolo Costella) - dailies operator  <br/>
-2023 – Come pecore in mezzo ai lupi (Lyda Patitucci) - dailies operator  <br/>
-2023 – Mixed by Erry (Sydney Sibilia) - data manager  <br/>
-2023 – Rido perché ti amo (Paolo Ruffini) - editore on-line  <br/>
-2023 – Te l'avevo detto (Ginevra Elkann) - dailies operator e data manager  <br/>
-2023 – Una gran voglia di vivere (Michela Andreozzi) - visual effects editor  <br/>
-2023 – Quando (Walter Veltroni) - visual effects editor  <br/>
-2023 – Il magico mondo di Billie (Francesco Cinquemani) - visual effects editor  <br/>
-2023 – Una stanza tutta per sé (Matan Yair) - visual effects editor  <br/>
-2023 – The garbage man (Alfonso Bergamo) - visual effects editor  <br/>
-2024 – Without blood (Angelina Jolie) - data manager   <br/>
-2024 – Pare parecchio Parigi (Leonardo Pieraccioni) - visual effects editor  <br/>
-2024 – E se mio padre (Sole Tonnini) - visual effects editor -  <br/>
-2024 – Napoli-New York (Gabriele Salvatores) - visual effects editor -  <br/>
-2024 – Amiche mai (Maurizio Nichetti) - visual effects editor -  <br/>
-2024 – Indelebile (Simone Valentini) - visual effects editor -  <br/>
+Nata a Roma il 12 dicembre 1991, dopo la maturità ha conseguito la laurea triennale in cinema e arti della visione all'Università di Roma Tre. Durante il percorso universitario hatrascorso un semestre a Cambridge, dove ha frequentato un corso avanzato di inglese, esuccessivamente un semestre di Erasmus a Oxford, presso la Oxford Brookes University. Alrientro a Roma, ha ricevuto un premio dall'ateneo con altri studenti per aver conseguito ilmaggior numero di crediti formativi durante lo scambio Erasmus. Nel 2009 è stata inoltre trai vincitori del Premio Nanà: Nuovi scrittori per l'Europa, organizzato dalla Avagliano Editore e patrocinato dal Presidente della Repubblica, con il racconto breve Dramma di una lampada.
 
-<b>Serie tv </b> <br/>
-2021 – Sarah - La ragazza da Avetrana (Christian Letruria) - dailies operator  <br/>
-2022 – Romulus (Matteo Rovere) - dailies operator, data manager e editore on-line  <br/>
-2023 – La legge di Lidia Poët (Matteo Rovere, Letizia Lamartire, Pippo Mezzapesa) - dailies operator  <br/>
-2024 – Dostoevskij (Damiano e Fabio D'Innocenzo) - visual effects editor  <br/>
+Successivamente si è trasferita a Brighton, in Inghilterra, per frequentare un'accademia di regia e direzione della fotografia. Terminata l'accademia, ha conseguito la laurea magistrale presso la Oxford Brookes University di Oxford con una tesi sulla scarsa presenza delle donne nell'industria cinematografica italiana, che ha vinto il 2018 Oxford Brookes Outstanding Dissertation Prize. Durante gli anni di studio ha lavorato come freelance nei reparti di scenografia o nei reparti di produzione come assistente e coordinatrice di produzione. Dopo la laurea, la sua prima esperienza lavorativa nel mondo del cinema è stato un tirocinio nell'ufficio di produzione di una casa produttrice anglo-irlandese, gestita da sole donne.
 
+Tornata in Italia, è entrata in una piccola casa di produzione a Roma dove ha avuto modo di sperimentare vari aspetti della catena produttiva – dal set all'animazione agli effetti visivi – in diversi ambiti: cinema, videoclip, spot pubblicitari. Qui Savignano ha acquisito nuove competenze, che, insieme all'inglese e alla conoscenza della filiera, l'hanno portata a occupare di volta in volta diversi ruoli. Oggi è producer di effetti visivi per il cinema e per la tv e lavora sia in Italia che all'estero.
+
+<b>Filmografia</b><br/>
+2018 – Rats (Kristiina Kello) – cortometraggio – scrittrice<br/>
+2019 – I was here (Nathalie Biancheri, Aleksandra Jankowska) – assistente di produzione<br/>
+2020 – Negramaro: Contatto (Yuri Santurri, Daniele Tofani, Trilathera) – video musicale – covid manager<br/>
+2021 – Genitori vs influencer (Michela Andreozzi)<br/>
+2021 – Zero (Ivan Silvestrini, Margherita Ferri, Paola Randi, Mohamed Hossameldin) – serie tv – 7 episodi<br/>
+2021 – Ostaggi (Eleonora Ivone)<br/>
+2021 – I nostri fantasmi (Alessandro Capitani)<br/>
+2021 – American night (Alessio Della Valle)<br/>
+2021 – La fuggitiva (Carlo Carlei) – serie tv – 8 episodi<br/>
+2022 – Takeaway (Renzo Carbonera)<br/>
+2022 – I cassamortari (Claudio Amendola)<br/>
+2022 – Dakota (Kirk Harris)<br/>
+2022 – Tutto per mio figlio (Umberto Marino) – film per la tv<br/>
+2022 – The baby (Faraz Shariat, Stacey Gregg, Ella Jones, Nicole Kassell) – serie tv – 2 episodi<br/>
+2022 – In the womb: animal babies – serie tv – 2 episodi<br/>
+2022 – The land of dreams (Nicola Abbatangelo)<br/>
+2022 – Aiuto! È Natale! (Kristoph Tassin)<br/>
+2023 – Meg 2: The trench (Ben Wheatley)<br/>
+2024 – Pare parecchio Parigi (Leonardo Pieraccioni)<br/>
+2024 – Napoli New York (Gabriele Salvatores)<br/>

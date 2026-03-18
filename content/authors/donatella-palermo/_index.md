@@ -1,35 +1,27 @@
 ---
 # Display name
-title: Alice Missi
+title: Donatella Palermo
 
 # Full Name (for SEO)
-first_name: Alice
-last_name: Missi
+first_name: Donatella
+last_name: Palermo
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role:
+role: Produttrice
 
 # Organizations/Affiliations
 organizations:
-  - name: 
-    url: ''
+- name:
+  url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -38,43 +30,68 @@ email: ''
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 
+-
 ---
 
-Nata a Roma l'1 marzo 1998, Alice Micci è una VFX editor. Il padre è militare e la madre parrucchiera.
-Lavora nel mondo del cinema sin dal liceo, facendo la comparsa e la data manager per alcuni cortometraggi. Ha conseguito un master in post-produzione presso la Scuola di Cinema Sentieri Selvaggi (2017-2020).
-Ha lavorato come assistente al montaggio, come data manager ed è attualmente una visual effect editor presso una società di effetti visivi.
+Catanese di nascita, Donatella Palermo è una produttrice italiana.
 
-<b>Filmografia </b> <br/>
-<b>Film </b> <br/>
-2020 – Sportin' life (Abel Ferrara) - assistente al montaggio <br/>
-2022 – Il sesso degli angeli (Leonardo Pieraccioni) - dailies operator e data manager  <br/>
-2022 – Una boccata d'aria (Alessio Lauria) - dailies operator  <br/>
-2022 – The hanging sun - Sole di mezzanotte (Francesco Carrozzini) - data manager  <br/>
-2022 – I viaggiatori (Ludovico Di Martino) - data manager e editore on-line  <br/>
-2022 – Era ora (Alessandro Aronadio) - editore on-line  <br/>
-2022 – Vicini di casa (Paolo Costella) - dailies operator  <br/>
-2023 – Come pecore in mezzo ai lupi (Lyda Patitucci) - dailies operator  <br/>
-2023 – Mixed by Erry (Sydney Sibilia) - data manager  <br/>
-2023 – Rido perché ti amo (Paolo Ruffini) - editore on-line  <br/>
-2023 – Te l'avevo detto (Ginevra Elkann) - dailies operator e data manager  <br/>
-2023 – Una gran voglia di vivere (Michela Andreozzi) - visual effects editor  <br/>
-2023 – Quando (Walter Veltroni) - visual effects editor  <br/>
-2023 – Il magico mondo di Billie (Francesco Cinquemani) - visual effects editor  <br/>
-2023 – Una stanza tutta per sé (Matan Yair) - visual effects editor  <br/>
-2023 – The garbage man (Alfonso Bergamo) - visual effects editor  <br/>
-2024 – Without blood (Angelina Jolie) - data manager   <br/>
-2024 – Pare parecchio Parigi (Leonardo Pieraccioni) - visual effects editor  <br/>
-2024 – E se mio padre (Sole Tonnini) - visual effects editor -  <br/>
-2024 – Napoli-New York (Gabriele Salvatores) - visual effects editor -  <br/>
-2024 – Amiche mai (Maurizio Nichetti) - visual effects editor -  <br/>
-2024 – Indelebile (Simone Valentini) - visual effects editor -  <br/>
+Nei primi anni Ottanta, si trova a Roma e scrive fumetti. Conosce per caso una produttrice americana che la introduce a Francesco Rosi e successivamente lavora come proiezionista, incontrando diversi registi. Da queste conoscenze nasce la possibilità di realizzare, come produttore esecutivo, la sua prima opera. All'inizio si dedica a piccole produzioni, fra le quali Tano da morire (Roberta Torre, 1997), che le da una certa notorietà,  e negli anni seguenti, insieme alla socia Loes Kamsteeg, lavora sia per il cinema che per la televisione. Nel corso della sua carriera, ha prodotto due film che hanno vinto l'Orso d'Oro a Berlino: Cesare deve morire, dei fratelli Taviani, e Fuocoammare di Gianfranco Rosi; film che ha guadagnato anche una nomination agli Oscar come miglior documentario nel 2017.
 
-<b>Serie tv </b> <br/>
-2021 – Sarah - La ragazza da Avetrana (Christian Letruria) - dailies operator  <br/>
-2022 – Romulus (Matteo Rovere) - dailies operator, data manager e editore on-line  <br/>
-2023 – La legge di Lidia Poët (Matteo Rovere, Letizia Lamartire, Pippo Mezzapesa) - dailies operator  <br/>
-2024 – Dostoevskij (Damiano e Fabio D'Innocenzo) - visual effects editor  <br/>
+A lei hanno fatto capo diverse case di produzione nel corso degli anni: 13 Dicembre, 12 Dicembre (insieme a Giorgio Magliulo), ASP, Far Films, Stemal Entertainment e Vip Media (insieme con Mino Loy).
 
+Ha fatto parte, nel 2021, della giuria del Biografilm Festival a Bologna insieme al regista indiano Rahul Jain e al curatore ed esperto di nuovi media tedesco Sebastian Sorg.
+
+<b>Riconoscimenti</b><br/>
+Premio Franco Cristaldi per il miglior produttore per il film Leonora addio (Paolo Taviani, 2022).<br/>
+
+<b>Filmografia</b><br/>
+1989 - Orlando sei (Dante Majorana)<br/>
+1991 - Il senso della vertigine (Paolo Bologna)<br/>
+1991 - Il gioco delle ombre (Stefano Gabrini)<br/>
+1991 - Passi sulla luna (Claudio Antonioni)<br/>
+1993 - Niente stasera (Ennio De Dominicis)<br/>
+1997 - Tano da morire (Roberta Torre)<br/>
+1998 - Viol@ (Donatella Maiorca)<br/>
+1999 - Appassionate (Tonino De Bernardi)<br/>
+2000 - Sud Side Stori (Roberta Torre)<br/>
+2002 - L'inverno (Nina Di Majo)<br/>
+2003 - Cuore scatenato (Gianluca Sodaro)<br/>
+2003 - Lettere al vento (Edmund Budina)<br/>
+2003 - I cinghiali di Portici (Diego Olivares)<br/>
+2006 - Gemelline (Filippo D'Antoni) - cortometraggio<br/>
+2006 - Lettere dal Sahara (Vittorio De Seta)<br/>
+2006 - Liscio (Claudio Antonioni)<br/>
+2007 - Notturno bus (Davide Marengo)<br/>
+2007 - Una notte (Toni D'Angelo)<br/>
+2008 - Appuntamento a ora insolita (Stefano Coletta)<br/>
+2009 - Le ombre rosse (Francesco Maselli)<br/>
+2009 - Poeti (Toni D'Angelo) - documentario<br/>
+2011 - Passannante (Sergio Colabona)<br/>
+2012 - L'innocenza di Clara (Toni D'Angelo)<br/>
+2012 - Cesare deve morire (Paolo e Vittorio Taviani)<br/>
+2012 - Come non detto (Ivan Silvestrini)<br/>
+2012 - L'isola dell'angelo caduto (Carlo Lucarelli)<br/>
+2015 - Maraviglioso Boccaccio (Paolo e Vittorio Taviani)<br/>
+2016 - Fuocoammare (Gianfranco Rosi) -  documentario<br/>
+2016 - Vangelo (Pippo Delbono)<br/>
+2017 - Una questione privata (Paolo Taviani)<br/>
+2017 - Moravia off (Luca Lancise) - documentario<br/>
+2018 - Questo è mio fratello (Marco Leopardi)<br/>
+2019 - Corleone: Le parrain des parrains (Mosco Boucault) - mini serie TV<br/>
+2019 - Nour (Maurizio Zaccaro)<br/>
+2019 - Faith (Valentina Pedicini) - documentario<br/>
+2019 - Il grande passo (Antonio Padovan)<br/>
+2020 - Last words (Jonathan Nossiter)<br/>
+2020 - Notturno (Gianfranco Rosi) - documentario<br/>
+2022 - Leonora addio (Paolo Taviani)<br/>
+2022 - Le favolose (Roberta Torre)<br/>
+2022 - In viaggio (Gianfranco Rosi) - documentario<br/>
+2023 - L'expérience Zola (Gianluca Matarrese) - documentario<br/>
+2023 - Mi fanno male i capelli (Roberta Torre)<br/>
+2024 - Luce (Luca Bellino, Silvia Luzi)<br/>
+2024 - Di uomini e cani (Dani Rosenberg)<br/>
+2024 - A queda do céo (Eryk Rocha, Gabriela Carneiro da Cunha)<br/>
+2024 - Ho visto un re (Giorgia Farina)<br/>
+2025 - GEN_ (Gianluca Matarrese) – documentario<br/>
+in lavorazione - Didi (Edoardo Winspeare)<br/>

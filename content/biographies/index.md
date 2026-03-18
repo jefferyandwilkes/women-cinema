@@ -23,10 +23,10 @@ sections:
   - block: contact
     content:
       title: <a href="https://jefferyandwilkes.github.io/women-cinema/author/alice-micci">Alice Micci</a><br/>
-<a href="https://jefferyandwilkes.github.io/women-cinema/author/andreina-mazzotto">Andreina Mazzotto</a><br/>
-<a href="https://jefferyandwilkes.github.io/women-cinema/author/annalisa-forgione">Annalisa Forgione</a><br/>
-<a href="https://jefferyandwilkes.github.io/women-cinema/author/antonella-cannarozzi">Antonella Cannarozzi</a><br/>
-<a href="https://jefferyandwilkes.github.io/women-cinema/author/barbara-melega">Barbara Melega</a><br/>
+             <a href="https://jefferyandwilkes.github.io/women-cinema/author/andreina-mazzotto">Andreina Mazzotto</a><br/>  
+             <a href="https://jefferyandwilkes.github.io/women-cinema/author/annalisa-forgione">Annalisa Forgione</a><br/>
+             <a href="https://jefferyandwilkes.github.io/women-cinema/author/antonella-cannarozzi">Antonella Cannarozzi</a><br/>
+             <a href="https://jefferyandwilkes.github.io/women-cinema/author/barbara-melega">Barbara Melega</a><br/>
 <a href="https://jefferyandwilkes.github.io/women-cinema/author/cate-d-amico">Cate. D_Amico</a><br/>
 <a href="https://jefferyandwilkes.github.io/women-cinema/author/daniela-bassani">Daniela Bassani</a><br/>
 <a href="https://jefferyandwilkes.github.io/women-cinema/author/donatella-palermo">Donatella Palermo</a><br/>
